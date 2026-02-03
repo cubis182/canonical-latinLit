@@ -72,7 +72,7 @@
       </profileDesc>
       <revisionDesc>
 <change who="Lisa Cerrato" when="2025-07-21">Fixed front matter issues, revised quotation marks, speaker tags and names, fixed line split encoding where numbers were absent, fixed orphaned lines that existed outside of speaker tags. Lines renumbered from 114-115 onward and 768b which was not originally split. </change>  
-<change who="Thibault Clérice" when="2016-11-18">CapiTains, Epidoc and Bump</change>
+<change who="Thibault Clerice" when="2016-11-18">CapiTains, Epidoc and Bump</change>
 <change who="balmas01" when="2013-09-13">moving Greg's work-in-progress on CTS-izing greco-roman collection texts to a Work directory</change>
 <change who="gcrane" when="2013-06-08">TEI XML converted to facilitate CTS compatibility</change>
 <change who="lcerrato" when="2012-02-22">Quia scibam dubiant  fixed to   Quia scibam dubiam</change>

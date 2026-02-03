@@ -58,7 +58,7 @@
                 <language ident="grc">Greek</language>
             </langUsage>
         </profileDesc>
-    <revisionDesc><change when="2016-11-20" who="Thibault Clérice">CapiTainS and Epidoc</change></revisionDesc></teiHeader> <text xml:lang="lat"> <body><div xml:lang="lat" type="edition" n="urn:cts:latinLit:phi2331.phi029.perseus-lat2">
+    <revisionDesc><change when="2016-11-20" who="Thibault Clerice">CapiTainS and Epidoc</change></revisionDesc></teiHeader> <text xml:lang="lat"> <body><div xml:lang="lat" type="edition" n="urn:cts:latinLit:phi2331.phi029.perseus-lat2">
 <div type="textpart" n="1" subtype="chapter">
 <p>
 <milestone unit="section" n="1"/>
@@ -377,7 +377,7 @@ atque inde iam exercitus temptatio et imperii, non nihilum tamen Gallis profuit,
 pugnans modo. hunc tamen Probus fugatum usque ad ultimas terras et cupientem in Francorum auxilium venire, a quibus originem se trahere ipse dicebat, ipsis prodentibus Francis, quibus familiare est
 <milestone unit="section" n="5"/>
 ridendo fidem frangere, vicit et interemit. posteri eius etiam nunc apud Albingaunos agunt, qui ioco
-<note n="n29.408.1">concallescat Damsté, Hohl; coalescat P, Peter. </note>
+<note n="n29.408.1">concallescat Damste, Hohl; coalescat P, Peter. </note>
 <note n="n29.408.2"> cum se P. </note>
 <note n="n29.408.3"> gereret Baehrens, Peter 2; regeret P. </note>
 <pb n="p.410"/>

@@ -61,7 +61,7 @@
             <change when="2014-07-01" who="Stella Dee">split composite text and converted to
                 unicode</change>
             <change when="2014-08-01" who="Stella Dee">edited markup</change>
-            <change when="2018-05-08" who="Thibault Clérice">Forked version of lat1 for Capitains replacing 
+            <change when="2018-05-08" who="Thibault Clerice">Forked version of lat1 for Capitains replacing 
                 //quote markup by English quotation marks (opening and closing are different)
                 and //p tags with //lb[type="paragraph"]</change>
         </revisionDesc>
@@ -305,7 +305,7 @@
                             et<note>et <hi rend="italics">Buecheler:</hi> sed.</note> tanquam
                         mendici spolium etiam fastidiose venditabat. Ascyltos postquam depositum
                         esse inviolatum vidit et personam vendentis contemptam, seduxit me paululum
-                        a turba et “Scis,” inquit “frater, redússe ad nos thesaurum de quo querebar?
+                        a turba et “Scis,” inquit “frater, redusse ad nos thesaurum de quo querebar?
                         Ilia est tunicula adhuc, ut apparet, intactis aureis plena. Quid ergo
                         facimus, aut quo iure rem nostram vindicamus?” <lb type="paragraph"
                         />Exhilaratus ego non tantum quia praedam videbam, sed etiam quod fortuna me
@@ -4211,7 +4211,7 @@
                             <l>cum volo, siccatis arescit languida sucis,</l>
                             <l>cum volo, fundit opes, scopulique atque horrida saxa</l>
                             <l>Niliacas iaculantur aquas. Milli pontus inertes</l>
-                            <l>submittit fluctus, zephyríque tacentia ponunt</l>
+                            <l>submittit fluctus, zephyrique tacentia ponunt</l>
                             <l>ante meos sua flabra pedes. Mihi flumina parent</l>
                             <l>Hyrcanaeque tigres et iussi stare dracones.</l>
                             <l>Quid leviora loquor? Lunae descendit imago</l>

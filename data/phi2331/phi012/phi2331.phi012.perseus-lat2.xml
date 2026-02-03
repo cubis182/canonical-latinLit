@@ -58,7 +58,7 @@
                 <language ident="grc">Greek</language>
             </langUsage>
         </profileDesc>
-    <revisionDesc><change when="2016-11-20" who="Thibault Clérice">CapiTainS and Epidoc</change></revisionDesc></teiHeader> <text xml:lang="lat"> <body><div xml:lang="lat" type="edition" n="urn:cts:latinLit:phi2331.phi012.perseus-lat2">
+    <revisionDesc><change when="2016-11-20" who="Thibault Clerice">CapiTainS and Epidoc</change></revisionDesc></teiHeader> <text xml:lang="lat"> <body><div xml:lang="lat" type="edition" n="urn:cts:latinLit:phi2331.phi012.perseus-lat2">
 <div type="textpart" n="1" subtype="chapter">
 <p>
 <milestone unit="section" n="1"/>
@@ -110,7 +110,7 @@ et ad me,
 <note n="n12.462.2">tum cum Peter; cum eum P.</note>
 <note n="n12.462.3">aliquid P 1.</note>
 <note n="n12.462.4">adiciam Peter; accedam P.</note>
-<note n="n12.462.5">in praesenti Damsté; me praesentem P; impraesentiarum P 2. </note>
+<note n="n12.462.5">in praesenti Damste; me praesentem P; impraesentiarum P 2. </note>
 <pb n="p.464"/>
 et cum mecum fueris, habiturus et purpuram sed sine auro, quia ita et proavus meus Verus, qui puer vita functus est, ab Hadriano, qui eum adoptavit, accepit.</q>
 </p>
@@ -472,7 +472,7 @@ ut plerique putent quod ex eo nomen acceperit, voce muliebri et prope ad eunucho
 saepe adpetens
 <milestone unit="section" n="2"/>
 vini, frequenter abstinens, armorum sciens prorsus, ut non male sui temporis Catilina diceretur.
-<note n="n12.486.1">illi Damsté; ille P, Peter.</note>
+<note n="n12.486.1">illi Damste; ille P, Peter.</note>
 <note n="n12.486.2">et P, Peter 1; om. by Peter 2.</note>
 <note n="n12.486.3">ita Petschenig, Peter 2; et P; om. by Peter 1. </note>
 <note n="n12.486.4">uarius nam Peter 1; narium nam P; uarii amans Petschenig, Peter 2. </note>

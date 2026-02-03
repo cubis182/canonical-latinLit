@@ -76,7 +76,7 @@
         <revisionDesc>
 	    <change when="2015-11-04" who="Zach Himes">Removed @rend from hi tag</change>
             <change when="2008-01-01" who="Gregory Crane">Initial Markup</change>
-            <change when="2015-03-06" who="Thibault Clérice">converted to EpiDoc/CTS</change>
+            <change when="2015-03-06" who="Thibault Clerice">converted to EpiDoc/CTS</change>
         </revisionDesc>
     </teiHeader>
     <text n="urn:cts:latinLit:phi1294.phi002.perseus-lat2"

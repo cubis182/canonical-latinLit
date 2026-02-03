@@ -80,7 +80,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
 		</profileDesc>
 
 	    <revisionDesc>
-	      <change when="2015-03-11" who="Thibault Clérice">converted to EpiDoc/CTS/Unicode</change>
+	      <change when="2015-03-11" who="Thibault Clerice">converted to EpiDoc/CTS/Unicode</change>
 	    </revisionDesc>
 
 	</teiHeader>

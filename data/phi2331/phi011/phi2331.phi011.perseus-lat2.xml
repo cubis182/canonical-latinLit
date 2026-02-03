@@ -58,7 +58,7 @@
                 <language ident="grc">Greek</language>
             </langUsage>
         </profileDesc>
-    <revisionDesc><change when="2016-11-20" who="Thibault Clérice">CapiTainS and Epidoc</change></revisionDesc></teiHeader> <text xml:lang="lat"> <body><div xml:lang="lat" type="edition" n="urn:cts:latinLit:phi2331.phi011.perseus-lat2">
+    <revisionDesc><change when="2016-11-20" who="Thibault Clerice">CapiTainS and Epidoc</change></revisionDesc></teiHeader> <text xml:lang="lat"> <body><div xml:lang="lat" type="edition" n="urn:cts:latinLit:phi2331.phi011.perseus-lat2">
 <div type="textpart" n="1" subtype="chapter">
 <p>
 <milestone unit="section" n="1"/>
@@ -206,7 +206,7 @@ navigatione. et Pescennius quidem veniente ad orientem Severo Graeciam, Thracias
 imperii Severum vocans, a quo, causa eorum quos occiderat, cum Aemiliano hostis est appellatus, dein a ducibus Severi per Aemilianum pugnans victus
 <milestone unit="section" n="8"/>
 est. et cum illi tutum exsilium promitteret, si ab armis recederet, persistens iterum pugnavit et victus est atque apud Cyzicum circa paludem fugiens sauciatus, et sic ad Severum adductus atque statim
-<note n="n11.440.1">tantum sane illud P; Tantum sane ille Damsté; statum tantum, sane illud Peter 1; statum nutantem, sane illud Petschenig, Peter 2.</note>
+<note n="n11.440.1">tantum sane illud P; Tantum sane ille Damste; statum tantum, sane illud Peter 1; statum nutantem, sane illud Petschenig, Peter 2.</note>
 <note n="n11.440.2">uidebatur Peter; et uidebatur P. </note>
 <pb n="p.442"/>
 </p>

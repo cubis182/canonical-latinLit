@@ -66,7 +66,7 @@
 		</profileDesc>
 		<revisionDesc>
 			<change who="Michael Konieczny" when="2021-01-27">Revisions for EpiDoc + CTS compliance</change>
-			<change who="Thibault Clérice" when="2021-01-20">Capitains + Epidoc</change>
+			<change who="Thibault Clerice" when="2021-01-20">Capitains + Epidoc</change>
 			<change who="Stella Dee" when="2014-08-01">edited markup</change>
 			<change who="Stella Dee" when="2014-07-01">split composite text and converted to unicode</change>
 			<change who="balmas01" when="2013-09-13">reverting texts back to pre_cts_reorg tagged version</change>

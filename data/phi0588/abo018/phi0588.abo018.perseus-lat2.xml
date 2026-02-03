@@ -76,7 +76,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
       <change when="2004-06-01" who="AEM">Initial markup</change>
       <change when="2014-08-01" who="Stella Dee">edited markup</change>
       <change when="2014-07-01" who="Stella Dee">split composite text and converted to unicode</change>
-      <change when="2016-11-10" who="Thibault Clérice">Moving to CapiTainS Guidelines and bump URN</change>
+      <change when="2016-11-10" who="Thibault Clerice">Moving to CapiTainS Guidelines and bump URN</change>
     </revisionDesc>
     
   </teiHeader>

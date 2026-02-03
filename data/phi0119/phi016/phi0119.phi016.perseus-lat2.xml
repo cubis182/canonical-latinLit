@@ -78,7 +78,7 @@
 
 <revisionDesc>
 	<change who="Lisa Cerrato" when="2025-07-01">Markup review and updates to line numbering, etc. Work includes readding cards, better handling of split lines and line parts, expanded speaker names, formatting.</change>
-	<change who="Thibault Clérice" when="2016-11-18">CapiTains, Epidoc and Bump</change>
+	<change who="Thibault Clerice" when="2016-11-18">CapiTains, Epidoc and Bump</change>
 	<change who="balmas01" when="2013-09-13">moving Greg's work-in-progress on CTS-izing greco-roman collection texts to a Work directory</change>
 	<change who="gcrane" when="2013-06-08">TEI XML converted to facilitate CTS compatibility</change>
 	<change who="gcrane" when="2011-01-16">base sdl file</change>
@@ -123,7 +123,7 @@
 <sp><speaker>Psevdolvs</speaker>
 <l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="3">Si ex te tacente fieri possem certior,</l>
 <l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="4">ere, quae miseriae te tam misere macerent,</l>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="5">duorúm labori ego hominum parsissem lubens,</l>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="5">duorum labori ego hominum parsissem lubens,</l>
 <l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="6">mei te rogandi et tis respondendi mihi;</l>
 <lb ed="actscene" n="5"/>
 <l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="7">nunc quoniam id fieri non potest, necessitas</l>
@@ -155,7 +155,7 @@
 
 <sp><speaker>Psevdolvs</speaker>
 <l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="18b" part="F">Face me certum quid tibist;</l>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="19">iuvabo aut ré aut opera aut consilio bono.</l></sp>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="19">iuvabo aut re aut opera aut consilio bono.</l></sp>
 
 <sp><speaker>Calidorvs</speaker>
 <l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="20">Cape has tabellas, tute hinc narrato tibi</l>
@@ -177,7 +177,7 @@
 
 <sp><speaker>Psevdolvs</speaker>
 <l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="25">Has quidem pol credo nisi Sibulla legerit,</l>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="26">interpretari álium posse neminem.</l></sp>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="26">interpretari alium posse neminem.</l></sp>
 
 <sp><speaker>Calidorvs</speaker>
 <lb ed="actscene" n="25"/>
@@ -228,7 +228,7 @@
 <l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="39">repente exortus sum, repentino occidi.</l></sp>
 
 <sp><speaker>Psevdolvs</speaker>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="40" part="I">Tace, dúm tabellas pellego.</l></sp>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="40" part="I">Tace, dum tabellas pellego.</l></sp>
 
 <sp><speaker>Calidorvs</speaker>
 <l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="40b" part="F">Ergo quin legis?</l></sp>
@@ -238,7 +238,7 @@
 <lb ed="actscene" n="40"/>
 <l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="42">per ceram et lignum litterasque interpretes</l>
 <l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="43">salutem mittit et salutem abs te expetit,</l>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="44">lacrumans titubanti ánimo, corde et pectore.”</l></sp>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="44">lacrumans titubanti animo, corde et pectore.”</l></sp>
 
 <sp><speaker>Calidorvs</speaker>
 <l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="45">Perii, salutem nusquam invenio, Pseudole,</l>
@@ -265,7 +265,7 @@
 <l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="52">minis viginti vendidit, voluptas mea;</l>
 <l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="53">et prius quam hinc abiit, quindecim miles minas</l>
 <l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="54">dederat; nunc unae quinque remorantur minae.</l>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="55">ea caúsa miles hic reliquit symbolum,</l>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="55">ea causa miles hic reliquit symbolum,</l>
 <l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="56">expressam in cera ex anulo suam imaginem,</l>
 <lb ed="actscene" n="55"/>
 <l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="57">ut qui huc adferret eius similem symbolum,</l>
@@ -282,22 +282,22 @@
 
 <sp><speaker>Calidorvs</speaker>
 <lb ed="actscene" n="60"/>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="62">Sino, nám mihi videor cúm ea fabularier;</l>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="62">Sino, nam mihi videor cum ea fabularier;</l>
 <l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="63">lege: dulce amarumque una nunc misces mihi.</l></sp>
 
 <sp><speaker>Psevdolvs</speaker>
 <l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="64">“Nunc nostri amores mores consuetudines,</l>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="65"><del>iocus lúdus sermo suavisaviatio</del></l>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="65"><del>iocus ludus sermo suavisaviatio</del></l>
 <l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="66">compressiones artae amantum corporum,</l>
 <lb ed="actscene" n="65"/>
 <l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="67">teneris labellis molles morsiunculae,</l>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="67a"><del>nostrorum órgiorum—iunculae</del></l>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="67a"><del>nostrorum orgiorum—iunculae</del></l>
 <l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="68">papillarum horridularum oppressiunculae,</l>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="69">harunc voluptátum mi omnium atque itidem tibi</l>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="69">harunc voluptatum mi omnium atque itidem tibi</l>
 <l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="70">distractio discidium vastities venit,</l>
 <lb ed="actscene" n="70"/>
 <l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="71">nisi quae mihi in test aut tibist in me salus.</l>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="72">haec quaé ego scivi ut scires curavi omnia;</l>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="72">haec quae ego scivi ut scires curavi omnia;</l>
 <l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="73">nunc ego te experiar quid ames, quid simules. vale.”</l></sp>
 
 <sp><speaker>Calidorvs</speaker>
@@ -327,7 +327,7 @@
 <l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="78b" part="F">Quid faciam tibi?</l></sp>
 
 <sp><speaker>Calidorvs</speaker>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="79" part="I">Eheú.</l></sp>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="79" part="I">Eheu.</l></sp>
 
 <sp><speaker>Psevdolvs</speaker>
 <l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="79b" part="F">Eheu? id quidem hercle ne parsis: dabo.</l></sp>
@@ -369,7 +369,7 @@
 
 <sp><speaker>Calidorvs</speaker>
 <l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="88b" part="F">Restim volo</l>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="89" part="I">mihi émere.</l></sp>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="89" part="I">mihi emere.</l></sp>
 
 <sp><speaker>Psevdolvs</speaker>
 <l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="89b" part="M">Quam ob rem?</l></sp>
@@ -381,7 +381,7 @@
 <sp><speaker>Psevdolvs</speaker>
 <lb ed="actscene" n="90"/>
 <l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="91">Quis mi igitur drachumam reddet, si dedero tibi?</l>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="92">an tu te ea caúsa vis sciens suspendere</l>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="92">an tu te ea causa vis sciens suspendere</l>
 <l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="93">ut me defraudes, drachumam si dederim tibi?</l></sp>
 
 <sp><speaker>Calidorvs</speaker>
@@ -426,7 +426,7 @@
 <l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="113">tua ut sit, aut si tibi do viginti minas?</l></sp>
 
 <sp><speaker>Calidorvs</speaker>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="114" part="I">Satis, sí futurumst.</l></sp>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="114" part="I">Satis, si futurumst.</l></sp>
 
 <sp><speaker>Psevdolvs</speaker>
 <l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="114b" part="F">Roga me viginti minas,</l>
@@ -462,7 +462,7 @@
 <l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="128">in hunc diem a me ut caveant, ne credant mihi.</l></sp>
 
 <sp><speaker>Calidorvs</speaker>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="129_130" part="I">St, táce opsecro hércle.</l></sp>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="129_130" part="I">St, tace opsecro hercle.</l></sp>
 
 <sp><speaker>Psevdolvs</speaker>
 <l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="129_130b" part="M">Quid negoti est?</l></sp>
@@ -482,31 +482,31 @@
 <div type="textpart" n="2" subtype="scene">
 
 <sp><speaker>Ballio</speaker>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="133">Exíte, agite exite, ígnavi, male hábiti et male concíliati,</l>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="134">quorúm numquam quicquám quoiquam venit ín mentem ut recté faciant,</l>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="135">quibus, nísi ad hoc exemplum éxperior, non pótest usura usúrpari.</l>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="136">neque ego hómines magis asinós numquam vidi, íta plagis costaé callent:</l>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="133">Exite, agite exite, ignavi, male habiti et male conciliati,</l>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="134">quorum numquam quicquam quoiquam venit in mentem ut recte faciant,</l>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="135">quibus, nisi ad hoc exemplum experior, non potest usura usurpari.</l>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="136">neque ego homines magis asinos numquam vidi, ita plagis costae callent:</l>
 <lb ed="actscene" n="5"/>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="137">quós quom ferias, tíbi plus noceas; éo enim ingenio hi súnt flagritribae,</l>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="138">qui haéc habent cónsilia, úbi data occásiost, rape clépe tene</l>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="139">hárpaga bibe és fuge: hoc</l>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="140">ést eorum opus, ut mávelis lúpos apud ovis línquere,</l>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="141">quam hós domi custodes.</l>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="137">quos quom ferias, tibi plus noceas; eo enim ingenio hi sunt flagritribae,</l>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="138">qui haec habent consilia, ubi data occasiost, rape clepe tene</l>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="139">harpaga bibe es fuge: hoc</l>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="140">est eorum opus, ut mavelis lupos apud ovis linquere,</l>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="141">quam hos domi custodes.</l>
 <lb ed="actscene" n="10"/>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="142">át faciem quom aspícias eorum, hau máli videntur: ópera fallunt.</l>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="143">núnc adeo hanc edictionem nisi animum advortetis omnes,</l>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="142">at faciem quom aspicias eorum, hau mali videntur: opera fallunt.</l>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="143">nunc adeo hanc edictionem nisi animum advortetis omnes,</l>
 <l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="144">nisi somnum socordiamque ex pectore oculisque exmovetis,</l>
 <l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="145">ita ego vestra latera loris faciam ut valide varia sint,</l>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="146">ut né peristromáta quidem aeque pícta sint Campánica</l>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="146">ut ne peristromata quidem aeque picta sint Campanica</l>
 <lb ed="actscene" n="15"/>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="147">neque Aléxandrina beluata tonsilia tappetia.</l>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="148">atque héri iam edixeram omnibus dederamque eas provincias,</l>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="149">verum ita vos estis praediti callenti ingenio ímprobi,</l>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="147">neque Alexandrina beluata tonsilia tappetia.</l>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="148">atque heri iam edixeram omnibus dederamque eas provincias,</l>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="149">verum ita vos estis praediti callenti ingenio improbi,</l>
 <l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="150">officium vestrum ut vos malo cogatis commonerier;</l>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="151">nempe íta animati éstis vos: vincítis duritia hoc átque me.</l>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="151">nempe ita animati estis vos: vincitis duritia hoc atque me.</l>
 <lb ed="actscene" n="20"/>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="152">hoc sis vide, ut alias res agunt. hoc ágite, hoc animum advortite,</l>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="153">huc adhibete auris quae ego loquor, plagigera genera hóminum.</l>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="152">hoc sis vide, ut alias res agunt. hoc agite, hoc animum advortite,</l>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="153">huc adhibete auris quae ego loquor, plagigera genera hominum.</l>
 <l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="154">numquam edepol vostrum durius tergum erit quam terginum hoc meum.</l>
 <l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="155">quid nunc? doletne? em sic datur, si quis erum servos spernit.</l>
 <l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="156">adsistite omnes contra me et quae loquar advortite animum.</l>
@@ -519,317 +519,317 @@
 
 <sp><speaker>Ballio</speaker>
 <l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="159b" part="F">Sine siet; itidem vos quoque estis plagis <del>omnes</del>:</l>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="160">numqui minus ea gratia tamen omnium opera útor?</l>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="161">tíbi hoc praecipio ut níteant aedes. hábes quod facias: própera, abi intro.</l>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="160">numqui minus ea gratia tamen omnium opera utor?</l>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="161">tibi hoc praecipio ut niteant aedes. habes quod facias: propera, abi intro.</l>
 <lb ed="actscene" n="30"/>
 <l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="162">tu esto lectisterniator. tu argentum eluito, idem exstruito.</l>
 <l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="163">haec, quom ego a foro revortar, facite ut offendam parata,</l>
 <l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="164">vorsa sparsa, tersa strata, lautaque unctaque omnia ut sint.</l>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="165">nam mi hódie natalís dies est, decet éum omnis vos concélebrare.</l>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="166">pernám callum glandiúm sumen facito ín aqua iaceant. sátin audis?</l>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="165">nam mi hodie natalis dies est, decet eum omnis vos concelebrare.</l>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="166">pernam callum glandium sumen facito in aqua iaceant. satin audis?</l>
 <lb ed="actscene" n="35"/>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="167">magnífice volo me víros summos accípere, ut mihi rem essé reantur.</l>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="168">intro abíte atque haec cito célerate, ne móra quae sit, cocus cum veniat;</l>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="169">ego eo ín macellum, ut píscium quidquíd ibist pretio praéstinem.</l>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="170">i, púere, prae; ne quísquam pertundát cruminam caútiost.</l>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="171">vel ópperire, est quód domi dicére paene fui oblítus.</l>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="167">magnifice volo me viros summos accipere, ut mihi rem esse reantur.</l>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="168">intro abite atque haec cito celerate, ne mora quae sit, cocus cum veniat;</l>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="169">ego eo in macellum, ut piscium quidquid ibist pretio praestinem.</l>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="170">i, puere, prae; ne quisquam pertundat cruminam cautiost.</l>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="171">vel opperire, est quod domi dicere paene fui oblitus.</l>
 <lb ed="actscene" n="40"/>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="172">audítin? vobis, múlieres, hanc hábeo edictiónem.</l>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="173">vós, quae in munditiís, mollitiis déliciisque aetátulam agitis,</l>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="174">viris cúm summis, inclútae amicae, nunc égo scibo atque hodie éxperiar,</l>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="175">quae cápiti, quae ventri óperam det, quae suaé rei, quae somnó studeat;</l>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="176">quam líbertam fore míhi credam et quam vénalem, hodie expériar.</l>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="172">auditin? vobis, mulieres, hanc habeo edictionem.</l>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="173">vos, quae in munditiis, mollitiis deliciisque aetatulam agitis,</l>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="174">viris cum summis, inclutae amicae, nunc ego scibo atque hodie experiar,</l>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="175">quae capiti, quae ventri operam det, quae suae rei, quae somno studeat;</l>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="176">quam libertam fore mihi credam et quam venalem, hodie experiar.</l>
 <lb ed="actscene" n="45"/>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="177">facite hódie ut mihi munéra multa huc ab amátoribus convéniant.</l>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="178">nam nísi mihi penus annúos hodie † convenit, cras populo prostituam vos.</l>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="179">natálem scitis mi ésse diem hunc: ubi istí sunt quibus vos óculi estis,</l>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="180">quibus vítae, quibus delíciae estis, quibus sávia, mammia, méllillae?</l>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="181">maniplátim mihi munérigeruli facite ánte aedis iam hic ádsint.</l>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="177">facite hodie ut mihi munera multa huc ab amatoribus conveniant.</l>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="178">nam nisi mihi penus annuos hodie † convenit, cras populo prostituam vos.</l>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="179">natalem scitis mi esse diem hunc: ubi isti sunt quibus vos oculi estis,</l>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="180">quibus vitae, quibus deliciae estis, quibus savia, mammia, mellillae?</l>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="181">maniplatim mihi munerigeruli facite ante aedis iam hic adsint.</l>
 <lb ed="actscene" n="50"/>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="182">cur égo vestem, aurum atque éa quibus est vobís usus, prahibeo? aút quid mi</l>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="183">domi nísi malum vestra operást hodie? improbaé vini modo cúpidae estis:</l>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="184">eo vós † vestros panticesque adeo madefáctatis, quom ego sim híc siccus.</l>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="185">nunc ádeo hoc factust óptumum, ut nomíne quemque appellem suo,</l>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="186">ne díctum esse actutúm sibi quaepiám vostrarum míhi neget:</l>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="182">cur ego vestem, aurum atque ea quibus est vobis usus, prahibeo? aut quid mi</l>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="183">domi nisi malum vestra operast hodie? improbae vini modo cupidae estis:</l>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="184">eo vos † vestros panticesque adeo madefactatis, quom ego sim hic siccus.</l>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="185">nunc adeo hoc factust optumum, ut nomine quemque appellem suo,</l>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="186">ne dictum esse actutum sibi quaepiam vostrarum mihi neget:</l>
 <lb ed="actscene" n="55"/>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="187">advórtite animum cúnctae.</l>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="188">princípio, Hedytium, técum ago, quae amíca es frumentáriis,</l>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="189">quibus cúnctis montes máxumi <del>acervi</del> frumenti súnt domi:</l>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="190">fac sís sit delatum húc mihi fruméntum, hunc annum quód satis,</l>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="191">mi et fámiliae omni sít meae, atque ádeo ut frumento áfluam,</l>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="187">advortite animum cunctae.</l>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="188">principio, Hedytium, tecum ago, quae amica es frumentariis,</l>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="189">quibus cunctis montes maxumi <del>acervi</del> frumenti sunt domi:</l>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="190">fac sis sit delatum huc mihi frumentum, hunc annum quod satis,</l>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="191">mi et familiae omni sit meae, atque adeo ut frumento afluam,</l>
 <lb ed="actscene" n="60"/>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="192">ut cívitas nomén mihi commútet meque ut praédicet</l>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="193">lenóne ex Ballióne regem Iásonem.</l></sp>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="192">ut civitas nomen mihi commutet meque ut praedicet</l>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="193">lenone ex Ballione regem Iasonem.</l></sp>
 
 <sp><speaker>Calidorvs</speaker>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="194">Aúdin, furcifér quae loquitur? sátin magnificus tíbi videtur?</l></sp>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="194">Audin, furcifer quae loquitur? satin magnificus tibi videtur?</l></sp>
 
 <sp><speaker>Psevdolvs</speaker>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="195">Pól iste, atque etiam málificus.</l>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="195a">séd tace atque hanc rém gere.</l></sp>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="195">Pol iste, atque etiam malificus.</l>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="195a">sed tace atque hanc rem gere.</l></sp>
 
 <sp><speaker>Ballio</speaker>
 <lb ed="actscene" n="65"/>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="196">Aéschrodora, tú quae amicos tíbi habes lenonum aémulos</l>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="197">lánios, qui, item ut nós iurando, iúre malo male quaérunt rem, audi:</l>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="198">nísi carnariá tria gravida tégoribus onere úberi hodie</l>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="199">míhi erunt, cras te quási Dircam olim, ut mémorant, duo gnatí Iovis</l>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="200">dévinxere ad taúrum, item ego te dístringam ad carnárium;</l>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="196">Aeschrodora, tu quae amicos tibi habes lenonum aemulos</l>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="197">lanios, qui, item ut nos iurando, iure malo male quaerunt rem, audi:</l>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="198">nisi carnaria tria gravida tegoribus onere uberi hodie</l>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="199">mihi erunt, cras te quasi Dircam olim, ut memorant, duo gnati Iovis</l>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="200">devinxere ad taurum, item ego te distringam ad carnarium;</l>
 <lb ed="actscene" n="70"/>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="201" part="I">íd tibi profecto taúrus fiet.</l></sp>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="201" part="I">id tibi profecto taurus fiet.</l></sp>
 
 <sp><speaker>Calidorvs</speaker>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="201b" part="F">Nímis sermone huius íra incendor.</l></sp>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="201b" part="F">Nimis sermone huius ira incendor.</l></sp>
 
 <sp><speaker>Psevdolvs</speaker>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="202" part="I">Húncine hic hominém pati</l>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="202b" part="F">cólere iuventutem átticam?</l>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="203">úbi sunt, ubi latént quibus aetas íntegra est, qui amant á lenone?</l>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="204">quín conveniunt? quín una omnes péste hac populum hunc líberant?</l>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="202" part="I">Huncine hic hominem pati</l>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="202b" part="F">colere iuventutem atticam?</l>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="203">ubi sunt, ubi latent quibus aetas integra est, qui amant a lenone?</l>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="204">quin conveniunt? quin una omnes peste hac populum hunc liberant?</l>
 <lb ed="actscene" n="75"/>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="205">sed nímium stultus, nímis fui <lb/> indóctus: illine aúdeant</l>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="205a">id fácere quibus ut sérviant</l>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="205b">suos ámor cogit?</l>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="205">sed nimium stultus, nimis fui <lb/> indoctus: illine audeant</l>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="205a">id facere quibus ut serviant</l>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="205b">suos amor cogit?</l>
 <l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="205c"><del>simul prohibet faciant adversum eos quod nolunt</del></l></sp>
 
 <sp><speaker>Calidorvs</speaker>
 <lb ed="actscene" n="80"/>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="206_207" part="I">Vah táce.</l></sp>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="206_207" part="I">Vah tace.</l></sp>
 
 <sp><speaker>Psevdolvs</speaker>
 <l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="206_207b" part="F">Quid est?</l></sp>
 
 <sp><speaker>Calidorvs</speaker>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="208">Male mórigeru<expan><abbr>’</abbr><ex>s e</ex></expan>s mihi, quóm sermoni huius óbsonas.</l></sp>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="208">Male morigeru<expan><abbr>’</abbr><ex>s e</ex></expan>s mihi, quom sermoni huius obsonas.</l></sp>
 
 <sp><speaker>Psevdolvs</speaker>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="209" part="I">Táceo.</l></sp>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="209" part="I">Taceo.</l></sp>
 
 <sp><speaker>Calidorvs</speaker>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="209b" part="M">At taceas málo multo quám tacere dicas.</l></sp>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="209b" part="M">At taceas malo multo quam tacere dicas.</l></sp>
 
 <sp><speaker>Ballio</speaker>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="209c" part="F">Tu aútem,</l>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="210">Xýstilis, fac ut ánimum advortas, quóius amatorés olivi</l>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="211"><foreign xml:lang="grc">δύναμιν</foreign> domi habent máxumam.</l>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="209c" part="F">Tu autem,</l>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="210">Xystilis, fac ut animum advortas, quoius amatores olivi</l>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="211"><foreign xml:lang="grc">δύναμιν</foreign> domi habent maxumam.</l>
 <lb ed="actscene" n="85"/>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="212">sí mihi non iam huc cúlleis</l>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="213">óleum deportátum erit,</l>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="214">te ípsam culleo égo cras faciam ut déportere—in pérgulam;</l>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="215">íbi tibi adeo léctus dabitur, úbi tu hau somnum cápias, sed ubi</l>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="216">úsque ad languorém—tenes</l>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="212">si mihi non iam huc culleis</l>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="213">oleum deportatum erit,</l>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="214">te ipsam culleo ego cras faciam ut deportere—in pergulam;</l>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="215">ibi tibi adeo lectus dabitur, ubi tu hau somnum capias, sed ubi</l>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="216">usque ad languorem—tenes</l>
 <lb ed="actscene" n="90"/>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="217">quó se haec tendant quaé loquor.</l>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="218">áin, excetra tu? quaé tibi amicos tót habes tam probe óleo onustos,</l>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="219">num quoípiam est hodié tua tuorum ópera conservórum</l>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="220">nítidiusculúm caput? aut num ipse égo pulmento utór magis</l>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="221">únctiusculó? sed scio, tu óleum hau magni péndis, vino</l>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="217">quo se haec tendant quae loquor.</l>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="218">ain, excetra tu? quae tibi amicos tot habes tam probe oleo onustos,</l>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="219">num quoipiam est hodie tua tuorum opera conservorum</l>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="220">nitidiusculum caput? aut num ipse ego pulmento utor magis</l>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="221">unctiusculo? sed scio, tu oleum hau magni pendis, vino</l>
 <lb ed="actscene" n="95"/>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="222">té devincis. síne modo,</l>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="223">réprehendam hercle ego cúncta una opera, nísi quidem hodie tu ómnia</l>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="224">fácis effecta haec út loquor.</l>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="225">tu aútem, quae pro cápite argentum míhi iam iamque sémper numeras,</l>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="226">éa pacisci módo scis, sed quod pácta es non scis sólvere,</l>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="222">te devincis. sine modo,</l>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="223">reprehendam hercle ego cuncta una opera, nisi quidem hodie tu omnia</l>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="224">facis effecta haec ut loquor.</l>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="225">tu autem, quae pro capite argentum mihi iam iamque semper numeras,</l>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="226">ea pacisci modo scis, sed quod pacta es non scis solvere,</l>
 <lb ed="actscene" n="100"/>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="227">Phoenícium, tibi ego haéc loquor, delíciae summatúm virum:</l>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="228">nísi hodie mi ex fúndis tuorum amícorum omne huc pénus adfertur,</l>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="229">crás Phoeniciúm poeniceo cório invises pérgulam.</l></sp>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="227">Phoenicium, tibi ego haec loquor, deliciae summatum virum:</l>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="228">nisi hodie mi ex fundis tuorum amicorum omne huc penus adfertur,</l>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="229">cras Phoenicium poeniceo corio invises pergulam.</l></sp>
 </div>
 
 <div type="textpart" n="3" subtype="scene">
 
 <sp><speaker>Calidorvs</speaker>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="230" part="I">Pseudóle, non audis quae híc loquitur?</l></sp>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="230" part="I">Pseudole, non audis quae hic loquitur?</l></sp>
 
 <sp><speaker>Psevdolvs</speaker>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="230b" part="F">Audío, ere, equidem atque animum ádvorto.</l></sp>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="230b" part="F">Audio, ere, equidem atque animum advorto.</l></sp>
 
 <sp><speaker>Calidorvs</speaker>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="231">Quid mi és auctor, huic út mittam, ne amícam hic meam prostítuat?</l></sp>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="231">Quid mi es auctor, huic ut mittam, ne amicam hic meam prostituat?</l></sp>
 
 <sp><speaker>Psevdolvs</speaker>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="232">Nil cúrassis, liquido és animo: ego pró me et pro te cúrabo.</l>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="233">iam díu ego huic bene et hic míhi volumus, et amícitia est antíqua:</l>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="232">Nil curassis, liquido es animo: ego pro me et pro te curabo.</l>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="233">iam diu ego huic bene et hic mihi volumus, et amicitia est antiqua:</l>
 <lb ed="actscene" n="5"/>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="234">mittam hódie huic suo die nátali malam rém magnam et matúram.</l></sp>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="234">mittam hodie huic suo die natali malam rem magnam et maturam.</l></sp>
 
 <sp><speaker>Calidorvs</speaker>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="235" part="I">Quid opúst?</l></sp>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="235" part="I">Quid opust?</l></sp>
 
 <sp><speaker>Psevdolvs</speaker>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="235b" part="M">Potin aliam rem út cures?</l></sp>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="235b" part="M">Potin aliam rem ut cures?</l></sp>
 
 <sp><speaker>Calidorvs</speaker>
 <l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="235c" part="M">At—</l></sp>
 
 <sp><speaker>Psevdolvs</speaker>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="235d" part="M">Bát.</l></sp> 
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="235d" part="M">Bat.</l></sp> 
 
 <sp><speaker>Calidorvs</speaker>
 <l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="235e" part="M" >Crucior.</l></sp>
 
 <sp><speaker>Psevdolvs</speaker>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="235f" part="F" >Cor dúra.</l></sp>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="235f" part="F" >Cor dura.</l></sp>
 
 <sp><speaker>Calidorvs</speaker>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="236" part="I">Non póssum.</l></sp>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="236" part="I">Non possum.</l></sp>
 
 <sp><speaker>Psevdolvs</speaker>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="236b" part="M">Fac possís.</l></sp>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="236b" part="M">Fac possis.</l></sp>
 
 <sp><speaker>Calidorvs</speaker>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="236c" part="M">Quonam pactó possim?</l></sp>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="236c" part="M">Quonam pacto possim?</l></sp>
 
 <sp><speaker>Psevdolvs</speaker>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="236d" part="F">Vince ánimum.</l>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="237">in rém quod sit praevórtaris quam in re ádvorsa animo auscúltes.</l></sp>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="236d" part="F">Vince animum.</l>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="237">in rem quod sit praevortaris quam in re advorsa animo auscultes.</l></sp>
 
 <sp><speaker>Calidorvs</speaker>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="238" part="I">Nugae ístaec sunt: non iúcundumst nisi amáns facit stulte.</l></sp>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="238" part="I">Nugae istaec sunt: non iucundumst nisi amans facit stulte.</l></sp>
 
 <sp><speaker>Psevdolvs</speaker>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="238b" part="F">Pérgin?</l></sp>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="238b" part="F">Pergin?</l></sp>
 
 <sp><speaker>Calidorvs</speaker>
 <lb ed="actscene" n="10"/>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="239" part="I">O Pseúdole mi, sine sím nihili,</l>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="239b" part="M">mitte mé sis.</l></sp>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="239" part="I">O Pseudole mi, sine sim nihili,</l>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="239b" part="M">mitte me sis.</l></sp>
 
 <sp><speaker>Psevdolvs</speaker>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="239c" part="F">Sino, modo ego ábeam.</l></sp>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="239c" part="F">Sino, modo ego abeam.</l></sp>
 
 <sp><speaker>Calidorvs</speaker>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="240" part="I">Mane, máne, iam ut voles med ésse ita ero.</l></sp>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="240" part="I">Mane, mane, iam ut voles med esse ita ero.</l></sp>
 
 <sp><speaker>Psevdolvs</speaker>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="240b" part="F">Nunc tú sapis.</l></sp>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="240b" part="F">Nunc tu sapis.</l></sp>
 
 <sp><speaker>Ballio</speaker>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="241" part="I">ít dies; egó mihi cesso.</l>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="241b" part="M">í prae, puere.</l></sp>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="241" part="I">it dies; ego mihi cesso.</l>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="241b" part="M">i prae, puere.</l></sp>
 
 <sp><speaker>Calidorvs</speaker>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="241c" part="F">Heus, ábit. quin revocas?</l></sp>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="241c" part="F">Heus, abit. quin revocas?</l></sp>
 
 <sp><speaker>Psevdolvs</speaker>
 <lb ed="actscene" n="15"/>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="242" part="I">Quíd properas? placide.</l></sp>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="242" part="I">Quid properas? placide.</l></sp>
 
 <sp><speaker>Calidorvs</speaker>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="242b" part="M">át prius quam abeat.</l></sp>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="242b" part="M">at prius quam abeat.</l></sp>
 
 <sp><speaker>Ballio</speaker>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="242c" part="F">Quíd <del>hoc</del>, malum, tam plácide is, puere?</l></sp>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="242c" part="F">Quid <del>hoc</del>, malum, tam placide is, puere?</l></sp>
 
 <sp><speaker>Psevdolvs</speaker>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="243">Hódie nate, heus, hódie nate, tíbi ego dico, heus, hódie nate,</l>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="244">redi ét respice ád nos. tamétsi occupátu<expan><abbr>’</abbr><ex>s e</ex></expan>s,</l>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="245">morámur. mane, ém conloquí qui volúnt te.</l></sp>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="243">Hodie nate, heus, hodie nate, tibi ego dico, heus, hodie nate,</l>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="244">redi et respice ad nos. tametsi occupatu<expan><abbr>’</abbr><ex>s e</ex></expan>s,</l>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="245">moramur. mane, em conloqui qui volunt te.</l></sp>
 
 <sp><speaker>Ballio</speaker>
 <lb ed="actscene" n="20"/>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="246">Quid hóc est? quis ést qui morám mi occupáto</l>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="247" part="I">moléstam optulit?</l></sp>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="246">Quid hoc est? quis est qui moram mi occupato</l>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="247" part="I">molestam optulit?</l></sp>
 
 <sp><speaker>Psevdolvs</speaker>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="247b" part="F">Qui tibí sospitalis</l>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="248" part="I">fuít.</l></sp>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="247b" part="F">Qui tibi sospitalis</l>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="248" part="I">fuit.</l></sp>
 
 <sp><speaker>Ballio</speaker>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="248b" part="F">Mortuóst qui fuít: qui sit úsust.</l></sp>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="248b" part="F">Mortuost qui fuit: qui sit usust.</l></sp>
 
 <sp><speaker>Psevdolvs</speaker>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="249" part="I">Nímis superbe.</l></sp>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="249" part="I">Nimis superbe.</l></sp>
 
 <sp><speaker>Ballio</speaker>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="249b" part="M">Nímis molestus.</l></sp>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="249b" part="M">Nimis molestus.</l></sp>
 
 <sp><speaker>Calidorvs</speaker>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="249c" part="M">Réprehende hominem, adséquere.</l></sp>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="249c" part="M">Reprehende hominem, adsequere.</l></sp>
 
 <sp><speaker>Ballio</speaker>
 <l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="249d" part="F">I puere.</l></sp>
 
 <sp><speaker>Psevdolvs</speaker>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="250" part="I">Occédamus hác obviám.</l></sp>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="250" part="I">Occedamus hac obviam.</l></sp>
 
 <sp><speaker>Ballio</speaker>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="250b" part="F">Iuppitér te</l>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="250b" part="F">Iuppiter te</l>
 <lb ed="actscene" n="25"/>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="251" part="I">perdát, quisquis és.</l></sp>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="251" part="I">perdat, quisquis es.</l></sp>
 
 <sp><speaker>Psevdolvs</speaker>
 <l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="251b" part="M">Te volo.</l></sp>
 
 <sp><speaker>Ballio</speaker>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="251c" part="F">át vos ego ámbos.</l>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="252" part="I">vorte hác te, puere.</l></sp>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="251c" part="F">at vos ego ambos.</l>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="252" part="I">vorte hac te, puere.</l></sp>
 
 <sp><speaker>Psevdolvs</speaker>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="252b" part="F">Non licét conloquí te?</l></sp>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="252b" part="F">Non licet conloqui te?</l></sp>
 
 <sp><speaker>Ballio</speaker>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="253" part="I">At míhi non lubét.</l></sp>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="253" part="I">At mihi non lubet.</l></sp>
 
 <sp><speaker>Psevdolvs</speaker>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="253b" part="F">Sin tuámst quippiam ín rem?</l></sp>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="253b" part="F">Sin tuamst quippiam in rem?</l></sp>
 
 <sp><speaker>Ballio</speaker>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="254" part="I">Licétne, opsecró, bitere án non licet?</l></sp>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="254" part="I">Licetne, opsecro, bitere an non licet?</l></sp>
 
 <sp><speaker>Psevdolvs</speaker>
 <l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="254b" part="F">Vah,</l>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="255" part="I">mánta.</l></sp>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="255" part="I">manta.</l></sp>
 
 <sp><speaker>Ballio</speaker>
 <l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="255b" part="M">Omitte.</l></sp>
 
 <sp><speaker>Calidorvs</speaker>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="255c" part="M">Bállio, audi.</l></sp>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="255c" part="M">Ballio, audi.</l></sp>
 
 <sp><speaker>Ballio</speaker>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="255d" part="F">Súrdus sum † profecto inanilogistae.</l></sp>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="255d" part="F">Surdus sum † profecto inanilogistae.</l></sp>
 
 <sp><speaker>Calidorvs</speaker>
 <lb ed="actscene" n="30"/>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="256" part="I">Dedí dum fuít.</l></sp>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="256" part="I">Dedi dum fuit.</l></sp>
 
 <sp><speaker>Ballio</speaker>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="256b" part="F">Non petó quod dedísti.</l></sp>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="256b" part="F">Non peto quod dedisti.</l></sp>
 
 <sp><speaker>Calidorvs</speaker>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="257" part="I">Dabó quando erít.</l></sp>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="257" part="I">Dabo quando erit.</l></sp>
 
 <sp><speaker>Ballio</speaker>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="257b" part="F">Ducitó quando habébis.</l></sp>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="257b" part="F">Ducito quando habebis.</l></sp>
 
 <sp><speaker>Calidorvs</speaker>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="258">éheu, quam ego malis pérdidi modis</l>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="259" part="I">quód tibi détuli et quód dedi.</l></sp>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="258">eheu, quam ego malis perdidi modis</l>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="259" part="I">quod tibi detuli et quod dedi.</l></sp>
 
 <sp><speaker>Ballio</speaker>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="259b" part="F">Mórtua</l>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="260">vérba re núnc facis; stúltus es, rem áctam agis.</l></sp>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="259b" part="F">Mortua</l>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="260">verba re nunc facis; stultus es, rem actam agis.</l></sp>
 
 <sp><speaker>Psevdolvs</speaker>
 <lb ed="actscene" n="35"/>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="261" part="I">Nósce saltem húnc quis est.</l></sp>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="261" part="I">Nosce saltem hunc quis est.</l></sp>
 
 <sp><speaker>Ballio</speaker>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="261b" part="F">Iám diu scio</l>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="262">quí fuit: núnc qui sit ipsús sciat.</l>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="263" part="I">ámbula tú.</l></sp>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="261b" part="F">Iam diu scio</l>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="262">qui fuit: nunc qui sit ipsus sciat.</l>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="263" part="I">ambula tu.</l></sp>
 
 <sp><speaker>Psevdolvs</speaker>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="263b" part="F">Potin út semel modo,</l>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="264">Bállio, huc cúm lucro respícias?</l></sp>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="263b" part="F">Potin ut semel modo,</l>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="264">Ballio, huc cum lucro respicias?</l></sp>
 
 <sp><speaker>Ballio</speaker>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="265">Réspiciam istoc prétio; nam si sácruficem summó Iovi</l>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="265">Respiciam istoc pretio; nam si sacruficem summo Iovi</l>
 <lb ed="actscene" n="40"/>
 <l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="266">atque in manibus exta teneam, ut poriciam, interea loci</l>
 <l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="267">si lucri quid detur, potius rem divinam deseram.</l>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="268">non potest pietati opsisti huíc, utut rés sunt ceterae.</l></sp>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="268">non potest pietati opsisti huic, utut res sunt ceterae.</l></sp>
 
 <sp><speaker>Psevdolvs</speaker>
 <l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="269">Deos quidem, quos maxume aequom est metuere, eos minimi facit.</l></sp>
@@ -868,7 +868,7 @@
 
 <sp><speaker>Psevdolvs</speaker>
 <l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="279">Hunc pudet, quod tibi promisit quaque id promisit die,</l>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="280">quia tibi minas viginti pró amica etiam non dedit.</l></sp>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="280">quia tibi minas viginti pro amica etiam non dedit.</l></sp>
 
 <sp><speaker>Ballio</speaker>
 <lb ed="actscene" n="55"/>
@@ -877,7 +877,7 @@
 
 <sp><speaker>Psevdolvs</speaker>
 <l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="283">At dabit, parabit: aliquot hos dies manta modo.</l>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="284">nám hic id metuit, ne illam vendas ob simultatem suam.</l></sp>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="284">nam hic id metuit, ne illam vendas ob simultatem suam.</l></sp>
 
 <sp><speaker>Ballio</speaker>
 <l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="285">Fuit occasio, si vellet, iam pridem argentum ut daret.</l></sp>
@@ -971,7 +971,7 @@
 <l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="315b" part="F">Face hoc quod te rogamus, Ballio,</l>
 <lb ed="actscene" n="90"/>
 <l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="316">mea fide, si isti formidas credere. ego in hoc triduo</l>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="317">aut terra aut marí alicunde evolvam id argentum tibi.</l></sp>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="317">aut terra aut mari alicunde evolvam id argentum tibi.</l></sp>
 
 <sp><speaker>Ballio</speaker>
 <l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="318" part="I">Tibi ego credam?</l></sp>
@@ -980,7 +980,7 @@
 <l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="318b" part="M">Quor non?</l></sp>
 
 <sp><speaker>Ballio</speaker>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="318c" part="F">Quia pol quá opera credam tibi,</l>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="318c" part="F">Quia pol qua opera credam tibi,</l>
 <l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="319">una opera alligem fugitivam canem agninis lactibus.</l></sp>
 
 <sp><speaker>Calidorvs</speaker>
@@ -1008,7 +1008,7 @@
 <l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="325" part="I">Quid iam?</l></sp>
 
 <sp><speaker>Ballio</speaker>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="325b" part="F">Quia enim non venalem iám habeo Phoenicium.</l></sp>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="325b" part="F">Quia enim non venalem iam habeo Phoenicium.</l></sp>
 
 <sp><speaker>Calidorvs</speaker>
 <lb ed="actscene" n="100"/>
@@ -1065,7 +1065,7 @@
 
 <sp><speaker>Ballio</speaker>
 <l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="338c" part="F">Sic, quia</l>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="339">sí ego emortuos sim, Athenis te sit nemo nequior.</l></sp>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="339">si ego emortuos sim, Athenis te sit nemo nequior.</l></sp>
 
 <sp><speaker>Calidorvs</speaker>
 <l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="340">Dic mihi, obsecro hercle, verum serio hoc quod te rogo.</l>
@@ -1093,7 +1093,7 @@
 <sp><speaker>Ballio</speaker>
 <l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="345b" part="F">Vtrum vis, vel quater quinis minis,</l>
 <lb ed="actscene" n="120"/>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="346">militi Macedonio, et iam quindecím habeo minas.</l></sp>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="346">militi Macedonio, et iam quindecim habeo minas.</l></sp>
 
 <sp><speaker>Calidorvs</speaker>
 <l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="347" part="I">Quid ego ex te audio?</l></sp>
@@ -1129,7 +1129,7 @@
 <l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="353" part="I">Fateor.</l></sp>
 
 <sp><speaker>Calidorvs</speaker>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="353b" part="M">Nempe concéptis verbis?</l></sp>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="353b" part="M">Nempe conceptis verbis?</l></sp>
 
 <sp><speaker>Ballio</speaker>
 <l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="353c" part="F">Etiam consutis quoque.</l></sp>
@@ -1286,7 +1286,7 @@
 <sp><speaker>Ballio</speaker>
 <l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="376b" part="F">Si tu argentum attuleris, cum illo perdidero fidem:</l>
 <l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="377">hoc meum est officium. ego, operae si sit, plus tecum loquar;</l>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="378">sed sine argénto frustra es qui me tui misereri postulas.</l>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="378">sed sine argento frustra es qui me tui misereri postulas.</l>
 <l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="379">haec meast sententia, ut tu hinc porro quid agas consulas.</l></sp>
 
 <sp><speaker>Calidorvs</speaker>
@@ -1299,7 +1299,7 @@
 <l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="380c" part="F">Paulo post magis.</l>
 <lb ed="actscene" n="155"/>
 <l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="381">illic homo meus est, nisi omnes di me atque homines deserunt.</l>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="382">exossabo ego illúm simulter itidem ut murenam coquos.</l>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="382">exossabo ego illum simulter itidem ut murenam coquos.</l>
 <l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="383" part="I">nunc, Calidore, te mihi operam dare volo.</l></sp>
 
 <sp><speaker>Calidorvs</speaker>
@@ -1325,7 +1325,7 @@
 <l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="389b" part="F">Propera, adduc hominem cito.</l></sp>
 
 <sp><speaker>Calidorvs</speaker>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="390">Pauci ex multis sunt amici, hómini qui certi sient.</l></sp>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="390">Pauci ex multis sunt amici, homini qui certi sient.</l></sp>
 
 <sp><speaker>Psevdolvs</speaker>
 <lb ed="actscene" n="165"/>
@@ -1348,7 +1348,7 @@
 <lb ed="actscene" n="5"/>
 <l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="398"><del>neque adeo argenti—neque nunc quid faciam scio.</del></l>
 <l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="399">neque exordiri primum unde occipias habes,</l>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="400">neque ad détexundam telam certos terminos.</l>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="400">neque ad detexundam telam certos terminos.</l>
 <l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="401">sed quasi poeta, tabulas cum cepit sibi,</l>
 <l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="402">quaerit quod nusquamst gentium, reperit tamen,</l>
 <lb ed="actscene" n="10"/>
@@ -1360,7 +1360,7 @@
 <lb ed="actscene" n="15"/>
 <l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="408"><del>verum is nescio quo pacto praesensit prius.</del></l>
 <l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="409">sed comprimundast vox mihi atque oratio:</l>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="410">erum eccum video húc Simonem una simul</l>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="410">erum eccum video huc Simonem una simul</l>
 <l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="411">cum suo vicino Calliphone incedere.</l>
 <l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="412">ex hoc sepulcro vetere viginti minas</l>
 <lb ed="actscene" n="20"/>
@@ -1371,7 +1371,7 @@
 <div type="textpart" n="5" subtype="scene">
 
 <sp><speaker>Simo</speaker>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="415">Si de damnosis aut si dé amatoribus</l>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="415">Si de damnosis aut si de amatoribus</l>
 <l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="416">dictator fiat nunc Athenis Atticis,</l>
 <l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="417">nemo anteveniat filio, credo, meo:</l>
 <l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="418">ita nunc per urbem solus sermoni omnibust,</l>
@@ -1382,10 +1382,10 @@
 <l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="422" part="I">sed dissimulabam.</l></sp>
 
 <sp><speaker>Psevdolvs</speaker>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="422b" part="F">Iám illi fetet filius.</l>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="422b" part="F">Iam illi fetet filius.</l>
 <l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="423">occisa est haec res, haeret hoc negotium.</l>
 <lb ed="actscene" n="10"/>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="424">quo in commeatum volui árgentarium</l>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="424">quo in commeatum volui argentarium</l>
 <l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="425">proficisci, ibi nunc oppido opsaeptast via.</l>
 <l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="426">praesensit: nihil est praedae praedatoribus.</l></sp>
 
@@ -1406,25 +1406,25 @@
 <l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="435b" part="F">Lepidum senem.</l></sp>
 
 <sp><speaker>Simo</speaker>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="436" part="I">Vetus nólo faciat.</l></sp>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="436" part="I">Vetus nolo faciat.</l></sp>
 
 <sp><speaker>Callipho</speaker>
 <l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="436b" part="F">At enim nequiquam nevis;</l>
 <l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="437">vel tu ne faceres tale in adulescentia.</l>
 <l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="438">probum patrem esse oportet qui gnatum suom</l>
 <lb ed="actscene" n="25"/>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="439">essé probiorem quam ipsus fuerit postulet.</l>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="439">esse probiorem quam ipsus fuerit postulet.</l>
 <l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="440">nam tu quod damni et quod fecisti flagiti</l>
 <l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="441">populo viritim potuit dispertirier.</l>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="442">idne tú mirare, si patrissat filius?</l></sp>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="442">idne tu mirare, si patrissat filius?</l></sp>
 
 <sp><speaker>Psevdolvs</speaker>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="443"><foreign xml:lang="grc">ὦ Ζεῦ</foreign>, quam pauci éstis homines commodi. em,</l>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="443"><foreign xml:lang="grc">ὦ Ζεῦ</foreign>, quam pauci estis homines commodi. em,</l>
 <lb ed="actscene" n="30"/>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="444">illic ést pater patrem esse ut aequom est filio.</l></sp>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="444">illic est pater patrem esse ut aequom est filio.</l></sp>
 
 <sp><speaker>Simo</speaker>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="445">Quis hic lóquitur? meus est hic quidem sérvos Pseudolus.</l>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="445">Quis hic loquitur? meus est hic quidem servos Pseudolus.</l>
 <l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="446">hic mihi corrumpit filium, scelerum caput;</l>
 <l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="447">hic dux, hic illi est paedagogus, hunc ego</l>
 <l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="448" part="I">cupio excruciari.</l></sp>
@@ -1476,7 +1476,7 @@
 <sp><speaker>Psevdolvs</speaker>
 <l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="466">Itast, iam pridem tu me spernis, sentio.</l>
 <l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="467">parvam esse apud te mihi fidem ipse intellego.</l>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="468">cupis me ésse nequam: tamen ero frugi bonae.</l></sp>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="468">cupis me esse nequam: tamen ero frugi bonae.</l></sp>
 
 <sp><speaker>Simo</speaker>
 <lb ed="actscene" n="55"/>
@@ -1487,7 +1487,7 @@
 <l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="471">Age loquere quidvis, tametsi tibi suscenseo.</l></sp>
 
 <sp><speaker>Simo</speaker>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="472" part="I">Mihin dómino servos tu suscenses?</l></sp>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="472" part="I">Mihin domino servos tu suscenses?</l></sp>
 
 <sp><speaker>Psevdolvs</speaker>
 <l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="472b" part="F">Tam tibi</l>
@@ -1511,7 +1511,7 @@
 <l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="479" part="I">sed quid ais? quid hoc, quod te rogo?</l></sp>
 
 <sp><speaker>Psevdolvs</speaker>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="479b" part="F">Sí quid vis, roga.</l>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="479b" part="F">Si quid vis, roga.</l>
 <l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="480">quod scibo, Delphis tibi responsum dicito.</l></sp>
 
 <sp><speaker>Simo</speaker>
@@ -1591,7 +1591,7 @@
 <l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="501c" part="F">Quin dictum est mihi?</l></sp>
 
 <sp><speaker>Psevdolvs</speaker>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="502">Quia illúd malum aderat, istuc aberat longius;</l>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="502">Quia illud malum aderat, istuc aberat longius;</l>
 <l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="503">illud erat praesens, huic erant dieculae.</l></sp>
 
 <sp><speaker>Simo</speaker>
@@ -1602,7 +1602,7 @@
 
 <sp><speaker>Psevdolvs</speaker>
 <l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="507">Numquam edepol quoiquam supplicabo, dum quidem</l>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="508">tu vives. tu mihi hercle árgentum dabis,</l>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="508">tu vives. tu mihi hercle argentum dabis,</l>
 <lb ed="actscene" n="95"/>
 <l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="509" part="I">abs te equidem sumam.</l></sp>
 
@@ -1669,7 +1669,7 @@
 <l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="523a"><del>Agedum, nam satis libenter te ausculto loqui.</del></l></sp>
 
 <sp><speaker>Psevdolvs</speaker>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="524">Prius quam ístam pugnam pugnabo, ego etiam prius</l>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="524">Prius quam istam pugnam pugnabo, ego etiam prius</l>
 <l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="525">dabo aliam pugnam claram et commemorabilem.</l></sp>
 
 <sp><speaker>Simo</speaker>
@@ -1680,7 +1680,7 @@
 <l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="527">per sycophantiam atque per doctos dolos</l>
 <lb ed="actscene" n="115"/>
 <l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="528">tibicinam illam, tuos quam gnatus deperit,</l>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="529" part="I">ea círcumducam lepide lenonem.</l></sp>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="529" part="I">ea circumducam lepide lenonem.</l></sp>
 
 <sp><speaker>Simo</speaker>
 <l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="529b" part="F">Quid est?</l></sp>
@@ -1689,8 +1689,8 @@
 <l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="530">Effectum hoc hodie reddam utrumque ad vesperum.</l></sp>
 
 <sp><speaker>Simo</speaker>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="531">Siquidem ístaec opera, ut praedicas, perfeceris,</l>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="532">virtute regi ágathocli antecesseris.</l>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="531">Siquidem istaec opera, ut praedicas, perfeceris,</l>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="532">virtute regi agathocli antecesseris.</l>
 <lb ed="actscene" n="120"/>
 <l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="533">sed si non faxis, numquid causaest, ilico</l>
 <l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="534" part="I">quin te in pistrinum condam?</l></sp>
@@ -1699,7 +1699,7 @@
 <l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="534b" part="F">Non unum in diem <del>modo</del>,</l>
 <l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="535">verum hercle in omnis, quantumst; sed si effecero,</l>
 <l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="536">dabin mi argentum, quod dem lenoni, ilico,</l>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="537" part="I">tua voluntáte?</l></sp>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="537" part="I">tua voluntate?</l></sp>
 
 <sp><speaker>Callipho</speaker>
 <l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="537b" part="F">Ius bonum orat Pseudolus;</l>
@@ -1718,7 +1718,7 @@
 <lb ed="actscene" n="130"/>
 <l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="543">si sumus compecti seu consilium umquam iniimus <del>de istac re</del></l>
 <l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="544">aut si de ea re umquam inter nos convenimus,</l>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="544a"><del>quasi in libro cúm scribuntur calamo litterae</del></l>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="544a"><del>quasi in libro cum scribuntur calamo litterae</del></l>
 <l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="545">stilis me totum usque ulmeis conscribito.</l></sp>
 
 <sp><speaker>Simo</speaker>
@@ -1730,7 +1730,7 @@
 <l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="548">ne quo te ad aliud occupes negotium.</l></sp>
 
 <sp><speaker>Callipho</speaker>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="549">Quin rus ut irem iám heri mecum statueram.</l></sp>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="549">Quin rus ut irem iam heri mecum statueram.</l></sp>
 
 <sp><speaker>Psevdolvs</speaker>
 <l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="550">At nunc disturba quas statuisti machinas.</l></sp>
@@ -1776,7 +1776,7 @@
 <lb ed="actscene" n="155"/>
 <l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="567">quo id sim facturus pacto nil etiam scio,</l>
 <l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="568">nisi quia futurumst. nam qui in scaenam provenit,</l>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="569">novo módo novom aliquid inventum adferre addecet;</l>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="569">novo modo novom aliquid inventum adferre addecet;</l>
 <l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="570">si id facere nequeat, det locum illi qui queat.</l>
 <l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="571">concedere aliquantisper hinc mi intro lubet,</l>
 <lb ed="actscene" n="160"/>
@@ -1789,54 +1789,54 @@
 <div type="textpart" n="1" subtype="scene">
 
 <sp><speaker>Psevdolvs</speaker>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="574">Pro Iúppiter, ut mihi, quídquid ago, lepide ómnia prospereque éveniunt:</l>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="575">neque quód dubitem neque quód timeam, meo in péctore conditumst cónsilium.</l>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="576">nam ea stúltitiast, facinús magnum timidó cordi credére; nam omnes</l>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="577">rés perinde sunt</l>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="574">Pro Iuppiter, ut mihi, quidquid ago, lepide omnia prospereque eveniunt:</l>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="575">neque quod dubitem neque quod timeam, meo in pectore conditumst consilium.</l>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="576">nam ea stultitiast, facinus magnum timido cordi credere; nam omnes</l>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="577">res perinde sunt</l>
 <lb ed="actscene" n="5"/>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="578">ut agás, ut eas magní facias; nam ego ín meo pectore príus <gap reason="lost" rend=" * "/> </l>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="579">íta paravi cópias,</l>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="580">duplicís triplicis dolos pérfidias, ut, ubíquomque hostibus cóngrediar</l>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="581">(maiórum meúm fretus vírtute dícam,</l>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="582">mea índustria ét malitiá fraudulénta),</l>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="578">ut agas, ut eas magni facias; nam ego in meo pectore prius <gap reason="lost" rend=" * "/> </l>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="579">ita paravi copias,</l>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="580">duplicis triplicis dolos perfidias, ut, ubiquomque hostibus congrediar</l>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="581">(maiorum meum fretus virtute dicam,</l>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="582">mea industria et malitia fraudulenta),</l>
 <lb ed="actscene" n="10"/>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="583">facile út vincam, facile út spoliem meos pérduellis meis pérfidiis.</l>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="584">núnc inimicum ego húnc communem meum átque vostrorum ómnium,</l>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="585">Bállionem, exbállistabo lépide: date operam modo;</l>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="585a"><del>hóc ego oppidum ádmoenire, ut hodie capiatúr, volo.</del></l>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="586">atque húc meas legionés adducam; si éxpugno</l>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="583">facile ut vincam, facile ut spoliem meos perduellis meis perfidiis.</l>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="584">nunc inimicum ego hunc communem meum atque vostrorum omnium,</l>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="585">Ballionem, exballistabo lepide: date operam modo;</l>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="585a"><del>hoc ego oppidum admoenire, ut hodie capiatur, volo.</del></l>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="586">atque huc meas legiones adducam; si expugno</l>
 <lb ed="actscene" n="15"/>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="586a">(facilem hánc rem meis civíbus faciam),</l>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="587">post ád oppidum hoc vetus cóntinuo meum exércitum protinus óbducam:</l>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="588">inde me ét simul participés omnis meos praéda onerabo atque ópplebo,</l>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="589">metum ét fugam perduéllibus meis me út sciant natum.</l>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="590">éo sum genere gnátus: magna mé facinora décet efficere,</l>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="586a">(facilem hanc rem meis civibus faciam),</l>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="587">post ad oppidum hoc vetus continuo meum exercitum protinus obducam:</l>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="588">inde me et simul participes omnis meos praeda onerabo atque opplebo,</l>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="589">metum et fugam perduellibus meis me ut sciant natum.</l>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="590">eo sum genere gnatus: magna me facinora decet efficere,</l>
 <lb ed="actscene" n="20"/>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="591">quae póst mihi clara et diú clueant.</l>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="592">sed hunc quém video? quis hic ést qui oculis meis óbviam ignobilis óbicitur?</l>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="593">lubet scíre quid hic veniát cum machaéra et huic, quám rem agat, hinc dabo insídias.</l></sp>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="591">quae post mihi clara et diu clueant.</l>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="592">sed hunc quem video? quis hic est qui oculis meis obviam ignobilis obicitur?</l>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="593">lubet scire quid hic veniat cum machaera et huic, quam rem agat, hinc dabo insidias.</l></sp>
 </div>
 
 <div type="textpart" n="2" subtype="scene">
 
 <sp><speaker>Harpax</speaker>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="594_595">Hi lóci sunt atque hae régiones quae mi áb ero sunt demónstratae,</l>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="596">ut ego óculis rationém capio quam mi íta dixit erus méus miles,</l>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="597">septumás esse aedis á porta ubi ille hábitet leno, quoí iussit</l>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="598">symbólum me ferre et hoc árgentum. nimis vélim, certum qui id míhi faciat,</l>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="594_595">Hi loci sunt atque hae regiones quae mi ab ero sunt demonstratae,</l>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="596">ut ego oculis rationem capio quam mi ita dixit erus meus miles,</l>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="597">septumas esse aedis a porta ubi ille habitet leno, quoi iussit</l>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="598">symbolum me ferre et hoc argentum. nimis velim, certum qui id mihi faciat,</l>
 <lb ed="actscene" n="5"/>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="599">Ballió leno ubi hic hábitat.</l></sp>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="599">Ballio leno ubi hic habitat.</l></sp>
 
 <sp><speaker>Psevdolvs</speaker>
 <l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="600"><del>St, tace, tace, meus hic est homo, ni omnes di atque homines deserunt.</del></l>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="601">novo cónsilio nunc míhi opus est,</l>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="601a">nova rés subito mi haec óbiectast:</l>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="602">hoc praévortar principio; illa omnia missa habeo, quae ante agere occepi.</l>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="601">novo consilio nunc mihi opus est,</l>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="601a">nova res subito mi haec obiectast:</l>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="602">hoc praevortar principio; illa omnia missa habeo, quae ante agere occepi.</l>
 <lb ed="actscene" n="10"/>
 <l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="603">iam pol ego hunc stratioticum nuntium advenientem probe percutiam.</l></sp>
 
 <sp><speaker>Harpax</speaker>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="604">óstium pultábo atque intus évocabo aliquém foras.</l></sp>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="604">ostium pultabo atque intus evocabo aliquem foras.</l></sp>
 
 <sp><speaker>Psevdolvs</speaker>
 <l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="605">Quisquis es, compendium ego te facere pultandi volo;</l>
@@ -1879,7 +1879,7 @@
 
 <sp><speaker>Psevdolvs</speaker>
 <l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="613b" part="F">Di me servant atque amant,</l>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="614">nam haec mihi incus est: procudam égo hodie hinc multos dolos.</l></sp>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="614">nam haec mihi incus est: procudam ego hodie hinc multos dolos.</l></sp>
 
 <sp><speaker>Harpax</speaker>
 <l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="615" part="I">Quid illic secum solus loquitur?</l></sp>
@@ -1940,7 +1940,7 @@
 
 <sp><speaker>Psevdolvs</speaker>
 <l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="631">Vae tibi, tu inventu<expan><abbr>’</abbr><ex>s e</ex></expan>s vero, meam qui furcilles fidem.</l>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="632">quasi mihi nón sescenta tanta soli soleant credier.</l></sp>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="632">quasi mihi non sescenta tanta soli soleant credier.</l></sp>
 
 <sp><speaker>Harpax</speaker>
 <l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="633">Potest ut alii ita arbitrentur et ego ut ne credam tibi.</l></sp>
@@ -2046,7 +2046,7 @@
 
 <sp><speaker>Psevdolvs</speaker>
 <l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="662b" part="F">Sane sapis et consilium placet.</l>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="663">sed vide sís ne in quaestione sis, quando arcessam, mihi.</l></sp>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="663">sed vide sis ne in quaestione sis, quando arcessam, mihi.</l></sp>
 
 <sp><speaker>Harpax</speaker>
 <lb ed="actscene" n="70"/>
@@ -2066,7 +2066,7 @@
 
 <sp><speaker>Psevdolvs</speaker>
 <l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="665d" part="F">Atque audin, Harpage?</l>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="666">iube sis te operiri: beatus éris, si consudaveris.</l></sp>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="666">iube sis te operiri: beatus eris, si consudaveris.</l></sp>
 </div>
 
 <div type="textpart" n="3" subtype="scene">
@@ -2077,9 +2077,9 @@
 <lb ed="actscene" n="5"/>
 <l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="671">nam haec allata cornu copiaest, ubi inest quidquid volo:</l>
 <l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="672">hic doli, hic fallaciae omnes, hic sunt sycophantiae,</l>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="673">hic argentum, híc amica amanti erili filio.</l>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="673">hic argentum, hic amica amanti erili filio.</l>
 <l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="674">atque ego nunc me ut gloriosum faciam et copi pectore:</l>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="675">quo modo quícque agerem, ut lenoni surruperem mulierculam,</l>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="675">quo modo quicque agerem, ut lenoni surruperem mulierculam,</l>
 <lb ed="actscene" n="10"/>
 <l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="676">iam instituta ornata cuncta in ordine, animo ut volueram,</l>
 <l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="677">certa deformata habebam; sed profecto hoc sic erit:</l>
@@ -2087,7 +2087,7 @@
 <l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="679">Fortuna. atque hoc verum est: proinde ut quisque Fortuna utitur,</l>
 <l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="680">ita praecellet atque exinde sapere eum omnes dicimus.</l>
 <lb ed="actscene" n="15"/>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="681">bene ubi quoi scimus consilium áccidisse, hominem catum</l>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="681">bene ubi quoi scimus consilium accidisse, hominem catum</l>
 <l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="682">eum esse declaramus, stultum autem illum quoi vortit male.</l>
 <l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="683">stulti hau scimus, frusta ut simus, quom quid cupienter dari</l>
 <l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="684">petimus nobis, quasi quid in rem sit possimus noscere.</l>
@@ -2127,7 +2127,7 @@
 
 <sp><speaker>Charinvs</speaker>
 <l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="698b" part="F">Servas imperium probe;</l>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="699">nám et amicum et benevolentem ducis. sed istic Pseudolus</l>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="699">nam et amicum et benevolentem ducis. sed istic Pseudolus</l>
 <l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="700" part="I">novos mihist.</l></sp>
 
 <sp><speaker>Calidorvs</speaker>
@@ -2143,9 +2143,9 @@
 
 <sp><speaker>Psevdolvs</speaker>
 <l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="702c" part="F">Io,</l>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="703">io te te, turanne, te te égo, qui imperitas Pseudolo,</l>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="704">quaero, quoi ter trina tríplicia, tríbus modis tria gaudia,</l>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="705">artibus tribus trís demeritas dem laetitias, de tribus</l>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="703">io te te, turanne, te te ego, qui imperitas Pseudolo,</l>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="704">quaero, quoi ter trina triplicia, tribus modis tria gaudia,</l>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="705">artibus tribus tris demeritas dem laetitias, de tribus</l>
 <lb ed="actscene" n="15"/>
 <l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="705a">fraude partas per malitiam et per dolum et fallaciam;</l>
 <l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="706">in libello hoc obsignato ad te attuli pauxillulo.</l></sp>
@@ -2209,7 +2209,7 @@
 <l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="716" part="I">Quid istuc est?</l></sp>
 
 <sp><speaker>Psevdolvs</speaker>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="716b" part="F">Epistulam modo hanc íntercepi et sumbolum.</l></sp>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="716b" part="F">Epistulam modo hanc intercepi et sumbolum.</l></sp>
 
 <sp><speaker>Calidorvs</speaker>
 <l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="717" part="I">Sumbolum? quem sumbolum?</l></sp>
@@ -2217,7 +2217,7 @@
 <sp><speaker>Psevdolvs</speaker>
 <l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="717b" part="F">Qui a milite allatust modo.</l>
 <l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="718">eius servos qui hunc ferebat cum quinque argenti minis,</l>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="719">tuam qui amicam hinc arcessebat, éi os sublevi modo.</l></sp>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="719">tuam qui amicam hinc arcessebat, ei os sublevi modo.</l></sp>
 
 <sp><speaker>Calidorvs</speaker>
 <lb ed="actscene" n="30"/>
@@ -2279,7 +2279,7 @@
 <l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="735b" part="F">Possum a me dare.</l></sp>
 
 <sp><speaker>Psevdolvs</speaker>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="736">Di immortales, non Charinus míhi hic quidem, sed Copiast.</l>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="736">Di immortales, non Charinus mihi hic quidem, sed Copiast.</l>
 <l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="737">sed istic servos, ex Carysto qui hic adest, ecquid sapit?</l></sp>
 
 <sp><speaker>Charinvs</speaker>
@@ -2294,7 +2294,7 @@
 
 <sp><speaker>Psevdolvs</speaker>
 <lb ed="actscene" n="50"/>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="740" part="I">Quid, si opus sít ut dulce promat indidem, ecquid habet?</l></sp>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="740" part="I">Quid, si opus sit ut dulce promat indidem, ecquid habet?</l></sp>
 
 <sp><speaker>Charinvs</speaker>
 <l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="740b" part="F">Rogas?</l>
@@ -2343,7 +2343,7 @@
 <l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="751" part="I">sed quid es acturus?</l></sp>
 
 <sp><speaker>Psevdolvs</speaker>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="751b" part="F">Dicam. úbi hominem exornavero,</l>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="751b" part="F">Dicam. ubi hominem exornavero,</l>
 <l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="752">subditivom fieri ego illum militis servom volo;</l>
 <l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="753">sumbolum hunc ferat lenoni cum quinque argenti minis,</l>
 <l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="754">mulierem ab lenone abducat: em tibi omnem fabulam.</l>
@@ -2372,7 +2372,7 @@
 <l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="764">nunc ibo ad forum atque onerabo meis praeceptis Simiam,</l>
 <lb ed="actscene" n="75"/>
 <l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="765">quid agat, ne quid titubet, docte ut hanc ferat fallaciam.</l>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="766">iam égo hoc ipsum oppidum expugnatum faxo erit lenonium.</l></sp>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="766">iam ego hoc ipsum oppidum expugnatum faxo erit lenonium.</l></sp>
 </div></div>
 
 <div type="textpart" n="3" subtype="act">
@@ -2392,14 +2392,14 @@
 <lb ed="actscene" n="10"/>
 <l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="776">interminatus est a minimo ad maximum,</l>
 <l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="777">si quis non hodie munus misisset sibi,</l>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="778">eum crás cruciatu maximo perbitere.</l>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="778">eum cras cruciatu maximo perbitere.</l>
 <l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="779">nunc nescio hercle rebus quid faciam meis;</l>
 <l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="780">neque ego illud possum, quod illi qui possunt solent.</l>
 <lb ed="actscene" n="15"/>
 <l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="781">nunc, nisi lenoni munus hodie misero,</l>
 <l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="782">cras mihi potandus fructus est fullonius.</l>
 <l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="783">eheu, quam illae rei ego etiam nunc sum parvolus.</l>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="784">atque edepol, ut nunc male eúm metuo miser,</l>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="784">atque edepol, ut nunc male eum metuo miser,</l>
 <l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="785">si quispiam det qui manus gravior siet,</l>
 <lb ed="actscene" n="20"/>
 <l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="786">quamquam illud aiunt magno gemitu fieri,</l>
@@ -2451,14 +2451,14 @@
 <l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="809">minoris quisquam nummo ut surgam subigere.</l>
 <l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="810">non ego item cenam condio ut alii coqui,</l>
 <l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="811">qui mihi condita prata in patinis proferunt,</l>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="812">boves quí convivas faciunt herbasque oggerunt,</l>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="813">eas hérbas herbis aliis porro condiunt:</l>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="812">boves qui convivas faciunt herbasque oggerunt,</l>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="813">eas herbas herbis aliis porro condiunt:</l>
 <lb ed="actscene" n="25"/>
 <l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="814">indunt coriandrum, feniculum, alium, atrum holus,</l>
 <l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="815">apponunt rumicem, brassicam, betam, blitum,</l>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="816">eo láserpici libram pondo diluont,</l>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="816">eo laserpici libram pondo diluont,</l>
 <l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="817">teritur sinapis scelera, quae illis qui terunt</l>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="818">prius quám triverunt oculi ut extillent facit.</l>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="818">prius quam triverunt oculi ut extillent facit.</l>
 <lb ed="actscene" n="30"/>
 <l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="819">ei homines cenas ubi coquont, cum condiunt,</l>
 <l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="820">non condimentis condiunt, sed strigibus,</l>
@@ -2478,8 +2478,8 @@
 <l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="828b" part="F">Audacter dicito;</l>
 <lb ed="actscene" n="40"/>
 <l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="829">nam vel ducenos annos poterunt vivere</l>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="830">meas qui éssitabunt escas quas condivero.</l>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="831">nam egó cocilendrum quando in patinas indidi</l>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="830">meas qui essitabunt escas quas condivero.</l>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="831">nam ego cocilendrum quando in patinas indidi</l>
 <l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="832">aut cepolendrum aut maccidem aut secaptidem,</l>
 <l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="833">eaepse sese <del>patinae</del> fervefaciunt ilico.</l>
 <lb ed="actscene" n="45"/>
@@ -2528,7 +2528,7 @@
 <l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="847">istacine causa tibi hodie nummum dabo?</l></sp>
 
 <sp><speaker>Cocvs</speaker>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="848">Fateór equidem esse me coquom carissumum;</l>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="848">Fateor equidem esse me coquom carissumum;</l>
 <lb ed="actscene" n="60"/>
 <l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="849">verum pro pretio facio ut opera appareat</l>
 <l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="850" part="I">mea quo conductus venio.</l></sp>
@@ -2545,13 +2545,13 @@
 <lb ed="actscene" n="65"/>
 <l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="854">quin ibi constrictis ungulis cenam coquas?</l>
 <l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="855">nunc adeo tu, qui meus es, iam edico tibi,</l>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="856">ut nostra properes amoliri ómnia,</l>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="856">ut nostra properes amoliri omnia,</l>
 <l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="857">tum ut huius oculos in oculis habeas tuis:</l>
 <l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="858">quoquo hic spectabit, eo tu spectato simul;</l>
 <lb ed="actscene" n="70"/>
 <l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="859">si quo hic gradietur, pariter progredimino;</l>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="860">manum sí protollet, pariter proferto manum:</l>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="861">suom sí quid sumet, id tu sinito sumere;</l>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="860">manum si protollet, pariter proferto manum:</l>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="861">suom si quid sumet, id tu sinito sumere;</l>
 <l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="862">si nostrum sumet, tu teneto altrinsecus.</l>
 <l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="863">si iste ibit, ito, stabit, astato simul;</l>
 <lb ed="actscene" n="75"/>
@@ -2559,7 +2559,7 @@
 <l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="865">item his discipulis privos custodes dabo.</l></sp>
 
 <sp><speaker>Cocvs</speaker>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="866" part="I">Habe módo bonum animum.</l></sp>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="866" part="I">Habe modo bonum animum.</l></sp>
 
 <sp><speaker>Ballio</speaker>
 <l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="866b" part="F">Quaeso, qui possum, doce,</l>
@@ -2577,7 +2577,7 @@
 <l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="872b" part="F">Eho, an etiam es veneficus?</l></sp>
 
 <sp><speaker>Cocvs</speaker>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="873" part="I">Immo edepol vero hóminum servator.</l></sp>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="873" part="I">Immo edepol vero hominum servator.</l></sp>
 
 <sp><speaker>Ballio</speaker>
 <l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="873b" part="F">Ehem,</l>
@@ -2600,7 +2600,7 @@
 
 <sp><speaker>Cocvs</speaker>
 <lb ed="actscene" n="90"/>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="880">Quin tuós inimicos potius quám amicos vocas?</l>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="880">Quin tuos inimicos potius quam amicos vocas?</l>
 <l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="881">nam ego ita convivis cenam conditam dabo</l>
 <l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="882">hodie atque ita suavi suavitate condiam:</l>
 <l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="883">ut quisque quicque conditum gustaverit,</l>
@@ -2618,7 +2618,7 @@
 <sp><speaker>Ballio</speaker>
 <l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="889">Molestus ne sis, nimium <del>iam</del> tinnis; non taces?</l>
 <lb ed="actscene" n="100"/>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="890">em illíc ego habito. íntro abi et cenam coque.</l>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="890">em illic ego habito. intro abi et cenam coque.</l>
 <l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="891" part="I">propera.</l></sp>
 
 <sp><speaker>Pver</speaker>
@@ -2632,12 +2632,12 @@
 <lb ed="actscene" n="105"/>
 <l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="895">ita in aedibus sunt fures, praedo in proxumo est.</l>
 <l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="896">nam mi hic vicinus apud forum paulo prius,</l>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="897">pater Calidori, ópere edixit maxumo,</l>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="897">pater Calidori, opere edixit maxumo,</l>
 <l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="898">ut mihi caverem a Pseudolo servo suo,</l>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="899">ne fídem ei haberem. nam eum circum ire in hunc diem,</l>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="899">ne fidem ei haberem. nam eum circum ire in hunc diem,</l>
 <lb ed="actscene" n="110"/>
 <l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="900">ut me, si posset, muliere intervorteret;</l>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="901">eum prómisisse firmiter dixit sibi,</l>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="901">eum promisisse firmiter dixit sibi,</l>
 <l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="902">sese abducturum a me dolis Phoenicium.</l>
 <l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="903">nunc ibo intro atque edicam familiaribus,</l>
 <l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="904">profecto ne quis quicquam credat Pseudolo.—</l></sp>
@@ -2647,168 +2647,168 @@
 <div type="textpart" n="1" subtype="scene">
 
 <sp><speaker>Psevdolvs</speaker>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="905">Si umquám quemquam di immórtales voluére esse auxilio ádiutum,</l>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="906">tum me ét Calidorum sérvatum volunt ésse et lenonem éxtinctum,</l>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="907">quom te ádiutorem génuerunt mihi tám doctum hominem atque ástutum.</l>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="908">sed ubi íllic est? sumne ego homo ínsipiens, qui haec mécum egomet loquar sólus?</l>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="905">Si umquam quemquam di immortales voluere esse auxilio adiutum,</l>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="906">tum me et Calidorum servatum volunt esse et lenonem extinctum,</l>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="907">quom te adiutorem genuerunt mihi tam doctum hominem atque astutum.</l>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="908">sed ubi illic est? sumne ego homo insipiens, qui haec mecum egomet loquar solus?</l>
 <lb ed="actscene" n="5"/>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="909">dedit vérba mihi hercle, ut opínor:</l>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="909a">malus cúm malo stulte cávi.</l>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="910">tum pól ego interii, homo si ílle abiit, neque hoc ópus quod volui hodie éfficiam.</l>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="911">sed eccúm video verberéam statuam: ut it, út magnifice infert sese.</l>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="912">ehem, te hércle ego circumspéctabam, nimis métuebam male, ne ábiisses.</l></sp>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="909">dedit verba mihi hercle, ut opinor:</l>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="909a">malus cum malo stulte cavi.</l>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="910">tum pol ego interii, homo si ille abiit, neque hoc opus quod volui hodie efficiam.</l>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="911">sed eccum video verbeream statuam: ut it, ut magnifice infert sese.</l>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="912">ehem, te hercle ego circumspectabam, nimis metuebam male, ne abiisses.</l></sp>
 
 <sp><speaker>Simia</speaker>
 <lb ed="actscene" n="10"/>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="913">Fuit meum ófficium ut facerém, fateor.</l></sp>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="913">Fuit meum officium ut facerem, fateor.</l></sp>
 
 <sp><speaker>Psevdolvs</speaker>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="913a" part="I">Vbi réstiteras?</l></sp>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="913a" part="I">Vbi restiteras?</l></sp>
 
 <sp><speaker>Simo</speaker>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="913ab" part="F">Vbi míhi libitum est.</l></sp>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="913ab" part="F">Vbi mihi libitum est.</l></sp>
 
 <sp><speaker>Psevdolvs</speaker>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="914" part="I">Istúc <gap reason="lost" rend=" * "/> ego sátis scio.</l></sp>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="914" part="I">Istuc <gap reason="lost" rend=" * "/> ego satis scio.</l></sp>
 
 <sp><speaker>Simo</speaker>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="914b" part="F">Quor érgo quod scis mé rogas?</l></sp>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="914b" part="F">Quor ergo quod scis me rogas?</l></sp>
 
 <sp><speaker>Psevdolvs</speaker>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="915" part="I">At hóc volo monére te.</l></sp>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="915" part="I">At hoc volo monere te.</l></sp>
 
 <sp><speaker>Simo</speaker>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="915b" part="F">Monéndus ne me moneas.</l></sp>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="915b" part="F">Monendus ne me moneas.</l></sp>
 
 <sp><speaker>Psevdolvs</speaker>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="916">Nimis tándem ego aps te contémnor.</l></sp>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="916">Nimis tandem ego aps te contemnor.</l></sp>
 
 <sp><speaker>Simo</speaker>
 <lb ed="actscene" n="15"/>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="917">Quippe égo te ni contémnam,</l>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="918">stratióticus homo qui clúear?</l></sp>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="917">Quippe ego te ni contemnam,</l>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="918">stratioticus homo qui cluear?</l></sp>
 
 <sp><speaker>Psevdolvs</speaker>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="919" part="I">Iam hoc vólo quod occeptúmst agi.</l></sp>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="919" part="I">Iam hoc volo quod occeptumst agi.</l></sp>
 
 <sp><speaker>Simo</speaker>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="919b" part="F">Numquíd agere aliud mé vides?</l></sp>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="919b" part="F">Numquid agere aliud me vides?</l></sp>
 
 <sp><speaker>Psevdolvs</speaker>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="920" part="I">ámbula ergó cito.</l></sp>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="920" part="I">ambula ergo cito.</l></sp>
 
 <sp><speaker>Simo</speaker>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="920b" part="F">Immo ótiosé volo.</l></sp>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="920b" part="F">Immo otiose volo.</l></sp>
 
 <sp><speaker>Psevdolvs</speaker>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="921">Haéc ea occásiost: dum ílle dormít, volo</l>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="921">Haec ea occasiost: dum ille dormit, volo</l>
 <lb ed="actscene" n="20"/>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="922">tú prior ut óccupes adire.</l></sp>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="922">tu prior ut occupes adire.</l></sp>
 
 <sp><speaker>Simo</speaker>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="923">Quid próperas? placide, né time.</l>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="923a">ita ílle faxit Iúppiter,</l>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="924">ut ílle palam ibidem ádsiet,</l>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="924a">quisquís illest, qui adest a mílite.</l>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="923">Quid properas? placide, ne time.</l>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="923a">ita ille faxit Iuppiter,</l>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="924">ut ille palam ibidem adsiet,</l>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="924a">quisquis illest, qui adest a milite.</l>
 <lb ed="actscene" n="25"/>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="925">numquam édepol erit illé potior</l>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="925a">Harpáx quam ego. habe animúm bonum:</l>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="926">púlchre ego hanc éxplicatám tibi rém dabo.</l>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="927">síc ego illúm dolis átque mendáciis</l>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="928">ín timorém dabo mílitarem ádvenam,</l>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="925">numquam edepol erit ille potior</l>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="925a">Harpax quam ego. habe animum bonum:</l>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="926">pulchre ego hanc explicatam tibi rem dabo.</l>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="927">sic ego illum dolis atque mendaciis</l>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="928">in timorem dabo militarem advenam,</l>
 <lb ed="actscene" n="30"/>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="929">ípsus sese út neget ésse eum quí siet</l>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="930" part="I">méque ut esse aútumet qui ípsus est.</l></sp>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="929">ipsus sese ut neget esse eum qui siet</l>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="930" part="I">meque ut esse autumet qui ipsus est.</l></sp>
 
 <sp><speaker>Psevdolvs</speaker>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="930b" part="F">Quí potest?</l></sp>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="930b" part="F">Qui potest?</l></sp>
 
 <sp><speaker>Simo</speaker>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="931" part="I">Occídis me, cum istúc rogitas.</l></sp>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="931" part="I">Occidis me, cum istuc rogitas.</l></sp>
 
 <sp><speaker>Psevdolvs</speaker>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="931b" part="F">O hóminem lepidum.</l></sp>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="931b" part="F">O hominem lepidum.</l></sp>
 
 <sp><speaker>Simo</speaker>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="932">Té quoque etiám dolis átque mendáciis,</l>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="933">quí magistér mihi es, ántidibo, út scias.</l></sp>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="932">Te quoque etiam dolis atque mendaciis,</l>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="933">qui magister mihi es, antidibo, ut scias.</l></sp>
 
 <sp><speaker>Psevdolvs</speaker>
 <lb ed="actscene" n="35"/>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="934" part="I">Iúppiter té mihi sérvet.</l></sp>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="934" part="I">Iuppiter te mihi servet.</l></sp>
 
 <sp><speaker>Simo</speaker>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="934b" part="F">Immó mihi.</l>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="935">séd vide, ornátus hic me satin cóndecet?</l></sp>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="934b" part="F">Immo mihi.</l>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="935">sed vide, ornatus hic me satin condecet?</l></sp>
 
 <sp><speaker>Psevdolvs</speaker>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="935a" part="I" >Optúme habet.</l></sp>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="935a" part="I" >Optume habet.</l></sp>
 
 <sp><speaker>Simo</speaker>
 <l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="935ab" part="F">Esto.</l></sp>
 
 <sp><speaker>Psevdolvs</speaker>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="936">Tantúm tibi boni di immórtales duint quántum tu tibi óptes;</l>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="937">nam si éxoptem, quantúm dignu<expan><abbr>’</abbr><ex>s e</ex></expan>s tantúm dent, minus nihiló sit.</l>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="936">Tantum tibi boni di immortales duint quantum tu tibi optes;</l>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="937">nam si exoptem, quantum dignu<expan><abbr>’</abbr><ex>s e</ex></expan>s tantum dent, minus nihilo sit.</l>
 <lb ed="actscene" n="40"/>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="938">néque ego hoc homine quémquam vidi mágis malum et máleficum.</l></sp>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="938">neque ego hoc homine quemquam vidi magis malum et maleficum.</l></sp>
 
 <sp><speaker>Simo</speaker>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="938a" part="I">Tun íd mihi?</l></sp>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="938a" part="I">Tun id mihi?</l></sp>
 
 <sp><speaker>Psevdolvs</speaker>
 <l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="938ab" part="F">Taceo.</l>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="939">sed egó quae tibi bona dábo et faciam, si hanc sóbrie rem accurássis.</l></sp>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="939">sed ego quae tibi bona dabo et faciam, si hanc sobrie rem accurassis.</l></sp>
 
 <sp><speaker>Simo</speaker>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="940">Potin út taceas? memorem ímmemorem facit quí monet quod memor méminit.</l>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="941">teneo, ómnia in pectore cóndita sunt, meditáti sunt mihi dóli docte.</l></sp>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="940">Potin ut taceas? memorem immemorem facit qui monet quod memor meminit.</l>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="941">teneo, omnia in pectore condita sunt, meditati sunt mihi doli docte.</l></sp>
 
 <sp><speaker>Psevdolvs</speaker>
 <lb ed="actscene" n="45"/>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="942" part="I">Probus ést hic homo.</l></sp>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="942" part="I">Probus est hic homo.</l></sp>
 
 <sp><speaker>Simo</speaker>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="942b" part="M">Neque hic ést neque ego.</l></sp>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="942b" part="M">Neque hic est neque ego.</l></sp>
 
 <sp><speaker>Psevdolvs</speaker>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="942c" part="M">At vide né titubes.</l></sp>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="942c" part="M">At vide ne titubes.</l></sp>
 
 <sp><speaker>Simo</speaker>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="942d" part="F">Potin út taceas?</l></sp>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="942d" part="F">Potin ut taceas?</l></sp>
 
 <sp><speaker>Psevdolvs</speaker>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="943" part="I">Ita mé di ament—</l></sp>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="943" part="I">Ita me di ament—</l></sp>
 
 <sp><speaker>Simo</speaker>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="943b" part="F">Ita nón facient: mera iám mendacia fúndes.</l></sp>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="943b" part="F">Ita non facient: mera iam mendacia fundes.</l></sp>
 
 <sp><speaker>Psevdolvs</speaker>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="944">Vt ego ób tuam, Simia, pérfidiam te amo et métuo et magni fácio.</l></sp>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="944">Vt ego ob tuam, Simia, perfidiam te amo et metuo et magni facio.</l></sp>
 
 <sp><speaker>Simo</speaker>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="945">Ego istúc aliis dare cóndidici: mi optrúdere non potes pálpum.</l></sp>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="945">Ego istuc aliis dare condidici: mi optrudere non potes palpum.</l></sp>
 
 <sp><speaker>Psevdolvs</speaker>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="946" part="I">Vt ego áccipiam te hodié lepide, ubi efféceris hoc opus,</l></sp>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="946" part="I">Vt ego accipiam te hodie lepide, ubi effeceris hoc opus,</l></sp>
 
 <sp><speaker>Simo</speaker>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="946b" part="F">Há ha hae.</l></sp>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="946b" part="F">Ha ha hae.</l></sp>
 
 <sp><speaker>Psevdolvs</speaker>
 <lb ed="actscene" n="50"/>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="947">Lepidó victu, vino, únguentis et intér pocula pulpámentis;</l>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="948">ibidem úna aderit muliér lepida, tibi sávia super savía quae det.</l></sp>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="947">Lepido victu, vino, unguentis et inter pocula pulpamentis;</l>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="948">ibidem una aderit mulier lepida, tibi savia super savia quae det.</l></sp>
 
 <sp><speaker>Simo</speaker>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="949" part="I">Lepide áccipis me.</l></sp>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="949" part="I">Lepide accipis me.</l></sp>
 
 <sp><speaker>Psevdolvs</speaker>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="949b" part="F">Immo si éfficies, tum fáxo magis <add>id</add> dícas.</l></sp>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="949b" part="F">Immo si efficies, tum faxo magis <add>id</add> dicas.</l></sp>
 
 <sp><speaker>Simo</speaker>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="950">Nisi effécero, cruciabíliter cárnifex me accipito.</l>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="951">séd propera mihi mónstrare, ubi sit ós lenonis aédium.</l></sp>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="950">Nisi effecero, cruciabiliter carnifex me accipito.</l>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="951">sed propera mihi monstrare, ubi sit os lenonis aedium.</l></sp>
 
 <sp><speaker>Psevdolvs</speaker>
 <lb ed="actscene" n="55"/>
@@ -2831,7 +2831,7 @@
 <l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="954" part="I">Illicinest?</l></sp>
 
 <sp><speaker>Psevdolvs</speaker>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="954b" part="M">Illic ést.</l></sp>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="954b" part="M">Illic est.</l></sp>
 
 <sp><speaker>Simo</speaker>
 <l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="954c" part="M">Mala mercist <gap reason="lost" rend=" * * "/> </l></sp>
@@ -2844,7 +2844,7 @@
 <div type="textpart" n="2" subtype="scene">
 
 <sp><speaker>Ballio</speaker>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="956">Mínus malum hunc hominem esse opinor quam esse censebam coquom,</l>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="956">Minus malum hunc hominem esse opinor quam esse censebam coquom,</l>
 <l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="957">nam nihil etiam dum harpagavit praeter cyathum et cantharum.</l></sp>
 
 <sp><speaker>Psevdolvs</speaker>
@@ -2877,7 +2877,7 @@
 <l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="967">Heus tu, qui cum hirquina barba stas, responde quod rogo.</l></sp>
 
 <sp><speaker>Ballio</speaker>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="968" part="I">Eho, an non príus salutas?</l></sp>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="968" part="I">Eho, an non prius salutas?</l></sp>
 
 <sp><speaker>Simo</speaker>
 <l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="968b" part="F">Nulla est mihi salus dataria.</l></sp>
@@ -2934,7 +2934,7 @@
 <sp><speaker>Simo</speaker>
 <lb ed="actscene" n="25"/>
 <l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="982">Erus meus tibi me salutem multam voluit dicere.</l>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="983">hanc epistulam accipe a me, hanc mé tibi iussit dare.</l></sp>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="983">hanc epistulam accipe a me, hanc me tibi iussit dare.</l></sp>
 
 <sp><speaker>Ballio</speaker>
 <l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="984" part="I">Quis is homost qui iussit?</l></sp>
@@ -2963,7 +2963,7 @@
 <l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="990" part="I">nomen est.</l></sp>
 
 <sp><speaker>Simo</speaker>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="990b" part="F">Scio iám me recte tibi dedisse epistulam,</l>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="990b" part="F">Scio iam me recte tibi dedisse epistulam,</l>
 <l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="991">postquam Polymachaeroplagidem elocutus nomen es.</l></sp>
 
 <sp><speaker>Ballio</speaker>
@@ -2974,7 +2974,7 @@
 <l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="992b" part="F">Quod homo edepol fortis atque bellator probus.</l>
 <l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="993">sed propera hanc pellegere quaeso epistulam (ita negotium est),</l>
 <l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="994">atque accipere argentum actutum mulieremque emittere.</l>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="995">nam necessést hodie Sicyoni me esse aut cras mortem exsequi,</l>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="995">nam necessest hodie Sicyoni me esse aut cras mortem exsequi,</l>
 <l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="996" part="I">ita erus meus est imperiosus.</l></sp>
 
 <sp><speaker>Ballio</speaker>
@@ -2982,11 +2982,11 @@
 
 <sp><speaker>Simo</speaker>
 <lb ed="actscene" n="40"/>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="997" part="I">Propera pellegere épistulam ergo.</l></sp>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="997" part="I">Propera pellegere epistulam ergo.</l></sp>
 
 <sp><speaker>Ballio</speaker>
 <l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="997b" part="F">Id ago, si taceas modo.</l>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="998">milés lenoni Ballioni epistulam</l>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="998">miles lenoni Ballioni epistulam</l>
 <l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="999">conscriptam mittit Polymachaeroplagides,</l>
 <l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1000">imagine obsignatam quae inter nos duo</l>
 <l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1001">convenit olim.  sumbolust in epistula.</l>
@@ -2997,7 +2997,7 @@
 <sp><speaker>Simo</speaker>
 <l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1004"><del>Ita militaris disciplinast, Ballio:</del></l>
 <l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1005"><del>manu salutem mittunt benevolentibus;</del></l>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1006"><del>eadém malam rem mittunt malevolentibus.</del></l>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1006"><del>eadem malam rem mittunt malevolentibus.</del></l>
 <lb ed="actscene" n="50"/>
 <l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1007"><del>sed, ut occepisti, perge opera experirier</del></l>
 <l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1008" part="I"><del>quid epistula ista narret.</del></l></sp>
@@ -3037,9 +3037,9 @@
 
 <sp><speaker>Psevdolvs</speaker>
 <l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1017">Peiorem ego hominem magisque vorsute malum</l>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1018">numquam edepol quemquam vidi, quám hic est Simia;</l>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1019">nimisque égo illum hominem metuo et formido male,</l>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1020">ne malus item erga me sit út erga illum fuit,</l>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1018">numquam edepol quemquam vidi, quam hic est Simia;</l>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1019">nimisque ego illum hominem metuo et formido male,</l>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1020">ne malus item erga me sit ut erga illum fuit,</l>
 <lb ed="actscene" n="5"/>
 <l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1021">ne in re secunda nunc mi obvertat cornua,</l>
 <l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1022">si occasionem capsit qui sit <add>mihi</add> malus;</l>
@@ -3048,10 +3048,10 @@
 <l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1026">primum omnium iam hunc comparem metuo meum,</l>
 <lb ed="actscene" n="10"/>
 <l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1027">ne deserat med atque ad hostis transeat;</l>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1028">metuo autem, né erus redeat etiam dum a foro,</l>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1028">metuo autem, ne erus redeat etiam dum a foro,</l>
 <l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1029">ne capta praeda capti praedones fuant.</l>
 <l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1030">quom haec metuo, metuo ne ille huc Harpax advenat</l>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1031">prius quam hínc hic Harpax abierit cum muliere.</l>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1031">prius quam hinc hic Harpax abierit cum muliere.</l>
 <lb ed="actscene" n="15"/>
 <l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1032">perii hercle, nimium tarde egrediuntur foras.</l>
 <l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1033">cor conligatis vasis expectat meum,</l>
@@ -3091,8 +3091,8 @@
 <sp><speaker>Ballio</speaker>
 <l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1052">Hahae, nunc demum mi animus in tuto est loco,</l>
 <l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1053">postquam iste hinc abiit atque abduxit mulierem.</l>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1054">iube núnc venire Pseudolum, scelerum caput,</l>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1055">et abdúcere a me mulierem fallaciis.</l>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1054">iube nunc venire Pseudolum, scelerum caput,</l>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1055">et abducere a me mulierem fallaciis.</l>
 <lb ed="actscene" n="5"/>
 <l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1056">conceptis hercle verbis, satis certo scio,</l>
 <l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1057">ego periurare me mavellem miliens,</l>
@@ -3115,7 +3115,7 @@
 <l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1066" part="I">Simo.</l></sp>
 
 <sp><speaker>Simo</speaker>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1066b" part="M">Quíd est?</l></sp>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1066b" part="M">Quid est?</l></sp>
 
 <sp><speaker>Ballio</speaker>
 <l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1066c" part="M">Iam—</l></sp>
@@ -3145,8 +3145,8 @@
 <l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1070" part="I">Velim quidem hercle.</l></sp>
 
 <sp><speaker>Ballio</speaker>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1070b" part="F">Róga me viginti minas,</l>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1071">si ille hodie ílla sit potitus muliere</l>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1070b" part="F">Roga me viginti minas,</l>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1071">si ille hodie illa sit potitus muliere</l>
 <lb ed="actscene" n="10"/>
 <l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1072">sive eam tuo gnato hodie, ut promisit, dabit,</l>
 <l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1073"><del>roga opsecro hercle, gestio promittere.</del></l>
@@ -3193,13 +3193,13 @@
 <sp><speaker>Ballio</speaker>
 <l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1088">Quia numquam abducet mulierem iam, nec potest,</l>
 <l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1089">a me. meministin tibi me dudum dicere,</l>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1090">eam véniisse militi Macedonio?</l></sp>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1090">eam veniisse militi Macedonio?</l></sp>
 
 <sp><speaker>Simo</speaker>
 <l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1091" part="I">Memini.</l></sp>
 
 <sp><speaker>Ballio</speaker>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1091b" part="F">Em íllius servos húc ad me argentum attulit</l>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1091b" part="F">Em illius servos huc ad me argentum attulit</l>
 <lb ed="actscene" n="30"/>
 <l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1092" part="I">et obsignatum sumbolum,</l></sp>
 
@@ -3217,7 +3217,7 @@
 <l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1095b" part="F">Vnde ea sit mihi?</l></sp>
 
 <sp><speaker>Simo</speaker>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1096">Vide módo, ne illic sit contechnatus quippiam.</l></sp>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1096">Vide modo, ne illic sit contechnatus quippiam.</l></sp>
 
 <sp><speaker>Ballio</speaker>
 <lb ed="actscene" n="35"/>
@@ -3232,94 +3232,94 @@
 <sp><speaker>Ballio</speaker>
 <l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1101b" part="F">Non edepol scio,</l>
 <lb ed="actscene" n="40"/>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1102">nisi ut observemus quó eat aut quam rem gerat.</l></sp>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1102">nisi ut observemus quo eat aut quam rem gerat.</l></sp>
 </div>
 
 <div type="textpart" n="7" subtype="scene">
 
 <sp><speaker>Harpax</speaker>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1103">Malus ét nequam est homo quí nihili eri ímperium sui sérvos facit,</l>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1104">nihilíst autem suom qui ófficium facere ímmemor est, nisi est ádmonitus.</l>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1105">nam quí liberós <del>esse</del> ilicó se arbitrantur,</l>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1106">ex cónspectu erí si suí se abdidérunt,</l>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1103">Malus et nequam est homo qui nihili eri imperium sui servos facit,</l>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1104">nihilist autem suom qui officium facere immemor est, nisi est admonitus.</l>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1105">nam qui liberos <del>esse</del> ilico se arbitrantur,</l>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1106">ex conspectu eri si sui se abdiderunt,</l>
 <lb ed="actscene" n="5"/>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1107">lúxantur, lustrántur, comedunt quód habent, ei nomén diu</l>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1108">sérvitutís ferunt.</l>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1109">néc boni ingeni quícquam in is inest,</l>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1107">luxantur, lustrantur, comedunt quod habent, ei nomen diu</l>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1108">servitutis ferunt.</l>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1109">nec boni ingeni quicquam in is inest,</l>
 <l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1110">nisi ut improbis se artibus teneant. †</l>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1111">cum hís mihi néc locus</l>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1111">cum his mihi nec locus</l>
 <lb ed="actscene" n="10"/>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1112">nec sérmo convenít neque is úmquam nobilís fui.</l>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1113">ego, ut mi ímperatumst, étsi abest, híc adesse erum árbitror.</l>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1114">núnc ego illum metuo,</l>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1115">quom hic nón adest, ne quom ádsiet métuam. ei rei operám dabo.</l>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1116">nam ín taberna úsque adhuc, sí venirét Syrus,</l>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1112">nec sermo convenit neque is umquam nobilis fui.</l>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1113">ego, ut mi imperatumst, etsi abest, hic adesse erum arbitror.</l>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1114">nunc ego illum metuo,</l>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1115">quom hic non adest, ne quom adsiet metuam. ei rei operam dabo.</l>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1116">nam in taberna usque adhuc, si veniret Syrus,</l>
 <lb ed="actscene" n="15"/>
 <l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1117">cui dedi sumbolum, mansi, uti iusserat:</l>
 <l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1118">leno ubi esset domi, me aibat arcessere;</l>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1119">vérum ubi is nón venit néc vocat,</l>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1120">venio húc ultro, ut sciam, quíd rei sit, ne illíc homo me ludíficetur.</l>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1121">neque quícquamst melius, quam út hoc pultém atque aliquem évocem hinc íntus.</l>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1119">verum ubi is non venit nec vocat,</l>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1120">venio huc ultro, ut sciam, quid rei sit, ne illic homo me ludificetur.</l>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1121">neque quicquamst melius, quam ut hoc pultem atque aliquem evocem hinc intus.</l>
 <lb ed="actscene" n="20"/>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1122">léno argentum hóc volo</l>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1123">á me accipiat átque amittat múlierem mecúm simul.</l></sp>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1122">leno argentum hoc volo</l>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1123">a me accipiat atque amittat mulierem mecum simul.</l></sp>
 
 <sp><speaker>Ballio</speaker>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1124" part="I">Heús tu.</l></sp>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1124" part="I">Heus tu.</l></sp>
 
 <sp><speaker>Simo</speaker>
 <l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1124b" part="M">Quid vis?</l></sp>
 
 <sp><speaker>Ballio</speaker>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1124c" part="M">Híc homo meus est.</l></sp>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1124c" part="M">Hic homo meus est.</l></sp>
 
 <sp><speaker>Simo</speaker>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1124d" part="M">Quídum?</l></sp>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1124d" part="M">Quidum?</l></sp>
 
 <sp><speaker>Ballio</speaker>
 <l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1124e" part="F">Quia praeda haec meast:</l>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1125">scórtum quaerit, hábet argentum. iam ádmordere hunc míhi lubet.</l></sp>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1125">scortum quaerit, habet argentum. iam admordere hunc mihi lubet.</l></sp>
 
 <sp><speaker>Simo</speaker>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1126" part="I">Iamne íllum coméssurus és?</l></sp>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1126" part="I">Iamne illum comessurus es?</l></sp>
 
 <sp><speaker>Ballio</speaker>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1126b" part="F">Dum recéns est</l>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1126b" part="F">Dum recens est</l>
 <lb ed="actscene" n="25"/>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1127">datór, dum calét, devorári decét iam.</l>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1128">boní me virí pauperánt, improbi aúgent;</l>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1129">popló strenuí, mi improbí usuí sunt.</l></sp>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1127">dator, dum calet, devorari decet iam.</l>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1128">boni me viri pauperant, improbi augent;</l>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1129">poplo strenui, mi improbi usui sunt.</l></sp>
 
 <sp><speaker>Simo</speaker>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1130">Malúm quod tibí di dabúnt, sic sceléstu<expan><abbr>’</abbr><ex>s e</ex></expan>s.</l></sp>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1130">Malum quod tibi di dabunt, sic scelestu<expan><abbr>’</abbr><ex>s e</ex></expan>s.</l></sp>
 
 <sp><speaker>Harpax</speaker>
 <l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1131">Me nunc commoror, quom has foris non ferio, ut sciam,</l>
 <lb ed="actscene" n="30"/>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1131a">sítne Ballió domi.</l></sp>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1131a">sitne Ballio domi.</l></sp>
 
 <sp><speaker>Ballio</speaker>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1132">Vénus mi haec bona dat, quom hós huc adigit</l>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1133">lúcrifugas, damnícupidos, qui sé suamque aetatém bene curant,</l>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1134">édunt, bibunt, scortántur: illi súnt alio ingenio átque tu,</l>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1135">quí neque tibi bene ésse patere et íllis quibus est ínvides.</l></sp> 
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1132">Venus mi haec bona dat, quom hos huc adigit</l>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1133">lucrifugas, damnicupidos, qui se suamque aetatem bene curant,</l>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1134">edunt, bibunt, scortantur: illi sunt alio ingenio atque tu,</l>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1135">qui neque tibi bene esse patere et illis quibus est invides.</l></sp> 
 
 <sp><speaker>Harpax</speaker>
 <lb ed="actscene" n="35"/>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1136" part="I">Heús ubi estis vós?</l></sp>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1136" part="I">Heus ubi estis vos?</l></sp>
 
 <sp><speaker>Ballio</speaker>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1136b" part="F">Hic quidem ad me récta habet rectám viam.</l></sp>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1136b" part="F">Hic quidem ad me recta habet rectam viam.</l></sp>
 
 <sp><speaker>Harpax</speaker>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1137" part="I"><del>Heus ubi estís vos?</del></l></sp>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1137" part="I"><del>Heus ubi estis vos?</del></l></sp>
 
 <sp><speaker>Ballio</speaker>
 <l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1137b" part="F"><del>Heus adulescens, quid istic debetur tibi?</del></l>
 <l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1138">bene ego ab hoc praedatus ibo; novi, bona scaevast mihi.</l></sp>
 
 <sp><speaker>Harpax</speaker>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1139" part="I">Ecquis hoc áperit?</l></sp>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1139" part="I">Ecquis hoc aperit?</l></sp>
 
 <sp><speaker>Ballio</speaker>
 <l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1139b" part="F">Heus chlamydate, quid istic debetur tibi?</l></sp>
@@ -3341,7 +3341,7 @@
 <l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1143" part="I">Tune is es?</l></sp>
 
 <sp><speaker>Simo</speaker>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1143b" part="F">Chlamydate, cáve sis tibi a curvo infortunio</l>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1143b" part="F">Chlamydate, cave sis tibi a curvo infortunio</l>
 <l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1144" part="I">atque in hunc intende digitum: hic leno est.</l></sp>
 
 <sp><speaker>Ballio</speaker>
@@ -3464,7 +3464,7 @@
 <l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1168">adeo donicum ipsus sese ludos fieri senserit.</l></sp>
 
 <sp><speaker>Ballio</speaker>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1169" part="I">Sequere. quid ais? nempe tu illíus servos es?</l></sp>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1169" part="I">Sequere. quid ais? nempe tu illius servos es?</l></sp>
 
 <sp><speaker>Harpax</speaker>
 <l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1169b" part="F">Planissume.</l></sp>
@@ -3475,7 +3475,7 @@
 <sp><speaker>Harpax</speaker>
 <l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1170b" part="F">Suarum in pugna virium victoria.</l>
 <lb ed="actscene" n="70"/>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1171">nám ego eram domi imperator summus in patria mea.</l></sp>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1171">nam ego eram domi imperator summus in patria mea.</l></sp>
 
 <sp><speaker>Ballio</speaker>
 <l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1172">An etiam umquam ille expugnavit carcerem, patriam tuam?</l></sp>
@@ -3494,9 +3494,9 @@
 <l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1175" part="I">Strenue mehercle iisti.</l></sp>
 
 <sp><speaker>Simo</speaker>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1175b" part="F">Quamvis pernix híc est homo:</l>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1175b" part="F">Quamvis pernix hic est homo:</l>
 <lb ed="actscene" n="75"/>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1176">ubi suram aspicias, scias pósse eum—gerere crassas compedes.</l></sp>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1176">ubi suram aspicias, scias posse eum—gerere crassas compedes.</l></sp>
 
 <sp><speaker>Ballio</speaker>
 <l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1177">Quid ais? tune etiam cubitare solitu<expan><abbr>’</abbr><ex>s e</ex></expan>s in cunis puer?</l></sp>
@@ -3514,7 +3514,7 @@
 <l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1179b" part="M">Sanine estis?</l></sp>
 
 <sp><speaker>Ballio</speaker>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1179c" part="F">Quíd hoc quod te rogo?</l>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1179c" part="F">Quid hoc quod te rogo?</l>
 <l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1180">noctu in vigiliam quando ibat miles, quom tu ibas simul,</l>
 <lb ed="actscene" n="80"/>
 <l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1181">conveniebatne in vaginam tuam machaera militis?</l></sp>
@@ -3544,7 +3544,7 @@
 <l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1185" part="I">Quid meret machaera?</l></sp>
 
 <sp><speaker>Harpax</speaker>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1185b" part="M">Elleborum hisce hóminibus opus ést.</l></sp>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1185b" part="M">Elleborum hisce hominibus opus est.</l></sp>
 
 <sp><speaker>Ballio</speaker>
 <l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1185c" part="F">Eho.</l></sp>
@@ -3561,7 +3561,7 @@
 <l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1188" part="I">meo peculio empta.</l></sp>
 
 <sp><speaker>Ballio</speaker>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1188b" part="F">Nempe quod fémina summa sustinent.</l></sp>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1188b" part="F">Nempe quod femina summa sustinent.</l></sp>
 
 <sp><speaker>Harpax</speaker>
 <l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1189_1190">Vncti hi sunt senes, fricari sese ex antiquo volunt.</l></sp>
@@ -3580,7 +3580,7 @@
 
 <sp><speaker>Harpax</speaker>
 <l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1195">Quem tu Pseudolum, quas tu mihi praedicas fallacias?</l>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1196" part="I">quem égo hominem † nullius coloris novi.</l></sp>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1196" part="I">quem ego hominem † nullius coloris novi.</l></sp>
 
 <sp><speaker>Ballio</speaker>
 <l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1196b" part="F">Non tu istinc abis?</l>
@@ -3600,7 +3600,7 @@
 <l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1200b" part="F">Ego tibi argentum dedi</l>
 <l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1201">et dudum, adveniens extemplo, sumbolum servo tuo,</l>
 <lb ed="actscene" n="100"/>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1202">eri imágine obsignatam epistulam, hic ante ostium.</l></sp>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1202">eri imagine obsignatam epistulam, hic ante ostium.</l></sp>
 
 <sp><speaker>Ballio</speaker>
 <l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1203" part="I">Meo tu epistulam dedisti servo? quoi servo?</l></sp>
@@ -3629,7 +3629,7 @@
 <l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1214">Edepol ne istuc magis magisque metuo, quom verba audio.</l>
 <l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1215">mihi quoque edepol iamdudum ille Surus cor perfrigefacit,</l>
 <l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1216">sumbolum qui ab hoc accepit. mira sunt ni Pseudolust.</l>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1217">eho tu, qua facie fuit, dúdum quoi dedisti sumbolum?</l></sp>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1217">eho tu, qua facie fuit, dudum quoi dedisti sumbolum?</l></sp>
 
 <sp><speaker>Harpax</speaker>
 <lb ed="actscene" n="115"/>
@@ -3676,7 +3676,7 @@
 <l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1229b" part="F">Si mi argentum dederis, te suspendito.</l></sp>
 
 <sp><speaker>Ballio</speaker>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1230" part="I">Di te perdant. sequere sis me ergo hac ad fórum, ut solvam.</l></sp>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1230" part="I">Di te perdant. sequere sis me ergo hac ad forum, ut solvam.</l></sp>
 
 <sp><speaker>Harpax</speaker>
 <l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1230b" part="F">Sequor.</l></sp>
@@ -3686,9 +3686,9 @@
 
 <sp><speaker>Ballio</speaker>
 <l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1231b" part="F">Peregrinos absolvam, cras agam cum civibus.</l>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1232">Pseudolus mihi centuriata hábuit capitis comitia,</l>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1232">Pseudolus mihi centuriata habuit capitis comitia,</l>
 <lb ed="actscene" n="130"/>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1233">qui illum ad mé hodie adlegavit, mulierem qui abduceret.</l>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1233">qui illum ad me hodie adlegavit, mulierem qui abduceret.</l>
 <l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1234">sequere tu. nunc ne expectetis, dum hac domum redeam via;</l>
 <l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1235">ita res gestast: angiporta haec certum est consectarier.</l></sp>
 
@@ -3709,7 +3709,7 @@
 <lb ed="actscene" n="5"/>
 <l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1242">quas promisi si effecisset; obviam ei ultro deferam.</l>
 <l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1243">nimis illic mortalis doctus, nimis vorsutus, nimis malus;</l>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1244">superavit dolum Troianum átque Vlixem Pseudolus.</l>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1244">superavit dolum Troianum atque Vlixem Pseudolus.</l>
 <l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1245">nunc ibo intro, argentum promam, Pseudolo insidias dabo.—</l></sp>
 </div></div>
 
@@ -3717,247 +3717,247 @@
 <div type="textpart" n="1" subtype="scene">
 
 <sp><speaker>Psevdolvs</speaker>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1246">Quid hóc? sicine hóc fit, pedés? statin án non?</l>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1247">an íd voltis, út me hinc iacéntem aliquis tóllat?</l>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1248">nam hércle si cécidero, véstrum erit flagítium.</l>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1249">pérgitin pérgere? ah, sérviendúm mihi</l>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1246">Quid hoc? sicine hoc fit, pedes? statin an non?</l>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1247">an id voltis, ut me hinc iacentem aliquis tollat?</l>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1248">nam hercle si cecidero, vestrum erit flagitium.</l>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1249">pergitin pergere? ah, serviendum mihi</l>
 <lb ed="actscene" n="5"/>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1250">hodie ést; magnum hoc vitiúm vino est:</l>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1251">pedés captat prímum, luctátor dolósust.</l>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1252">profécto edepol égo nunc probe habeo madúlsam:</l>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1253">ita víctu excurato, íta magnis mundítiis <add>et</add> dis dígnis,</l>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1254">itaque ín loco festivó sumus festíve accepti.</l>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1250">hodie est; magnum hoc vitium vino est:</l>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1251">pedes captat primum, luctator dolosust.</l>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1252">profecto edepol ego nunc probe habeo madulsam:</l>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1253">ita victu excurato, ita magnis munditiis <add>et</add> dis dignis,</l>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1254">itaque in loco festivo sumus festive accepti.</l>
 <lb ed="actscene" n="10"/>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1255">quid opúst me multas agere ámbages? hoc</l>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1256">est hómini quam ob rem vítam amet,</l>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1257">hic ómnes voluptatés, in hoc omnés venustatés sunt:</l>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1258">deis próximum esse árbitror.</l>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1259">nam úbi amans complexúst amantem, úbi ad labra labélla adiungit,</l>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1255">quid opust me multas agere ambages? hoc</l>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1256">est homini quam ob rem vitam amet,</l>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1257">hic omnes voluptates, in hoc omnes venustates sunt:</l>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1258">deis proximum esse arbitror.</l>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1259">nam ubi amans complexust amantem, ubi ad labra labella adiungit,</l>
 <lb ed="actscene" n="15"/>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1260">úbi alter alterúm bilingui mánifesto inter sé prehendunt,</l>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1261">ubi mámmam mammicula ópprimit aut, si lúbet, corpora condúplicantur,</l>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1262">manu cándida cantharum dúlciferum propínat amicissíma amico:</l>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1263">ibi iám neque esse alium alii ódiosum</l>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1264">nec mólestum nec sermónibus morologís uti,</l>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1260">ubi alter alterum bilingui manifesto inter se prehendunt,</l>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1261">ubi mammam mammicula opprimit aut, si lubet, corpora conduplicantur,</l>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1262">manu candida cantharum dulciferum propinat amicissima amico:</l>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1263">ibi iam neque esse alium alii odiosum</l>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1264">nec molestum nec sermonibus morologis uti,</l>
 <lb ed="actscene" n="20"/>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1265">unguénta atque odóres, lemníscos, coróllas</l>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1266">darí dapsilés, non ením parce prómi</l>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1267">(victúm ceterum ne quís me roget):</l>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1268">hóc ego modo átque erus minor húnc diem súmpsimus prothyme,</l>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1269_1270">póstquam opus meum ómne ut volui pérpetravi hóstibus fugatis.</l>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1265">unguenta atque odores, lemniscos, corollas</l>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1266">dari dapsiles, non enim parce promi</l>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1267">(victum ceterum ne quis me roget):</l>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1268">hoc ego modo atque erus minor hunc diem sumpsimus prothyme,</l>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1269_1270">postquam opus meum omne ut volui perpetravi hostibus fugatis.</l>
 <lb ed="actscene" n="25"/>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1271">illós accubántis, potántis, amántis</l>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1272">cum scórtis relíqui, et meúm scortum ibídem,</l>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1272a">suó cordi atque ánimo opsequéntes. sed póstquam</l>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1273">exúrrexi, oránt med ut sáltem.</l>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1271">illos accubantis, potantis, amantis</l>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1272">cum scortis reliqui, et meum scortum ibidem,</l>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1272a">suo cordi atque animo opsequentes. sed postquam</l>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1273">exurrexi, orant med ut saltem.</l>
 <l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1274">ad hunc me modum intuli illis satis facete,</l>
 <lb ed="actscene" n="30"/>
 <l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1274a">nimis ex discipulina, quippe ego qui</l>
 <l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1275">probe Ionica perdidici. sed palliolatim amictus</l>
 <l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1275a">sic haec incessi ludibundus.</l>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1276">plaudúnt <add>et</add> <q>parúm</q> clamitánt mi, ut revértar.</l>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1277">óccepi dénuo, hóc modo: nólui</l>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1276">plaudunt <add>et</add> <q>parum</q> clamitant mi, ut revertar.</l>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1277">occepi denuo, hoc modo: nolui</l>
 <lb ed="actscene" n="35"/>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1277a">ídem; amicaé dabam mé meae,</l>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1278">út me amarét: ubi círcumvortór, cado:</l>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1278a">id fúit naenia lúdo.</l>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1279">ítaque dum enitór, prox, iam paene ínquinavi pállium.</l>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1280">nímiae tum volúptati edepol</l>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1277a">idem; amicae dabam me meae,</l>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1278">ut me amaret: ubi circumvortor, cado:</l>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1278a">id fuit naenia ludo.</l>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1279">itaque dum enitor, prox, iam paene inquinavi pallium.</l>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1280">nimiae tum voluptati edepol</l>
 <lb ed="actscene" n="40"/>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1280a">fúi ob casúm. datur cántharus: bibi.</l>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1281">commúto ilicó pallium, íllud posívi;</l>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1282">inde húc exií, crapulám dum amovérem.</l>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1283">núnc ab ero ad erum méum maiorem vénio foedus cómmemoratum.</l>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1284">áperite, aperite, heús, Simoni mé adesse aliquis núntiate.</l></sp>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1280a">fui ob casum. datur cantharus: bibi.</l>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1281">commuto ilico pallium, illud posivi;</l>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1282">inde huc exii, crapulam dum amoverem.</l>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1283">nunc ab ero ad erum meum maiorem venio foedus commemoratum.</l>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1284">aperite, aperite, heus, Simoni me adesse aliquis nuntiate.</l></sp>
 </div>
 
 <div type="textpart" n="2" subtype="scene">
 
 <sp><speaker>Simo</speaker>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1285">Vóx viri péssumi me éxciet foras.</l>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1286">séd quid hoc? quó modo? quíd video ego?</l></sp>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1285">Vox viri pessumi me exciet foras.</l>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1286">sed quid hoc? quo modo? quid video ego?</l></sp>
 
 <sp><speaker>Psevdolvs</speaker>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1287">Cúm corona ébrium Pseúdolum tuom.</l></sp>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1287">Cum corona ebrium Pseudolum tuom.</l></sp>
 
 <sp><speaker>Simo</speaker>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1288">Líbere hercle hóc quidem. séd vide statum.</l>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1288">Libere hercle hoc quidem. sed vide statum.</l>
 <lb ed="actscene" n="5"/>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1289">núm mea grátia pértimescít magis?</l>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1290">cógito, saéviter blanditerne ádloquar.</l>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1291">sed me hóc votat vim fácere nunc</l>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1292">quód fero, sí qua in hoc spés sitast mihi.</l></sp>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1289">num mea gratia pertimescit magis?</l>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1290">cogito, saeviter blanditerne adloquar.</l>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1291">sed me hoc votat vim facere nunc</l>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1292">quod fero, si qua in hoc spes sitast mihi.</l></sp>
 
 <sp><speaker>Psevdolvs</speaker>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1293">Vír malus viro óptumo obviam it.</l></sp>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1293">Vir malus viro optumo obviam it.</l></sp>
 
 <sp><speaker>Simo</speaker>
 <lb ed="actscene" n="10"/>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1294">Dí te ament, Pseúdole. fú i in malám crucem.</l></sp>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1294">Di te ament, Pseudole. fu i in malam crucem.</l></sp>
 
 <sp><speaker>Psevdolvs</speaker>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1295" part="I">Cur égo adflictor?</l></sp>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1295" part="I">Cur ego adflictor?</l></sp>
 
 <sp><speaker>Simo</speaker>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1295b" part="F">Quid tú, malum, in os igitúr mi ebrius inrúctas?</l></sp>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1295b" part="F">Quid tu, malum, in os igitur mi ebrius inructas?</l></sp>
 
 <sp><speaker>Psevdolvs</speaker>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1296">Mólliter síc tene mé, cave né cadam:</l>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1297">non vídes me ut madide mádeam?</l></sp>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1296">Molliter sic tene me, cave ne cadam:</l>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1297">non vides me ut madide madeam?</l></sp>
 
 <sp><speaker>Simo</speaker>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1298">Quae ístaec audáciast, té sic intérdius</l>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1298">Quae istaec audaciast, te sic interdius</l>
 <lb ed="actscene" n="15"/>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1299" part="I">cúm corolla ébrium incédere?</l></sp>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1299" part="I">cum corolla ebrium incedere?</l></sp>
 
 <sp><speaker>Psevdolvs</speaker>
 <l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1299b" part="F">Lubet.</l></sp>
 
 <sp><speaker>Simo</speaker>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1300">Quíd, lubet? pérgin ructáre in os mihi?</l></sp>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1300">Quid, lubet? pergin ructare in os mihi?</l></sp>
 
 <sp><speaker>Psevdolvs</speaker>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1301">Suávis ructús mihi est. síc sine, Simo.</l></sp>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1301">Suavis ructus mihi est. sic sine, Simo.</l></sp>
 
 <sp><speaker>Simo</speaker>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1302">Credo équidem potesse té, scelus,</l>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1303">Mássici móntis ubérrumos quáttuor</l>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1302">Credo equidem potesse te, scelus,</l>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1303">Massici montis uberrumos quattuor</l>
 <lb ed="actscene" n="20"/>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1304" part="I">frúctus ebíbere in hora úna.</l></sp>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1304" part="I">fructus ebibere in hora una.</l></sp>
 
 <sp><speaker>Psevdolvs</speaker>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1304b" part="F">Hiberna áddito.</l></sp>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1304b" part="F">Hiberna addito.</l></sp>
 
 <sp><speaker>Simo</speaker>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1305">Hau mále mones, sed díc tamen,</l>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1306">únde onustám celocem ágere te praédicem?</l></sp>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1305">Hau male mones, sed dic tamen,</l>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1306">unde onustam celocem agere te praedicem?</l></sp>
 
 <sp><speaker>Psevdolvs</speaker>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1307">Cúm tuo fílio pérpotaví modo.</l>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1308">séd, Simo, ut probe táctus Ballio est!</l>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1307">Cum tuo filio perpotavi modo.</l>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1308">sed, Simo, ut probe tactus Ballio est!</l>
 <lb ed="actscene" n="25"/>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1309">quaé tibi díxi, ut effécta reddidi!</l></sp>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1309">quae tibi dixi, ut effecta reddidi!</l></sp>
 
 <sp><speaker>Simo</speaker>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1310" part="I">Péssumu<expan><abbr>’</abbr><ex>s e</ex></expan>s homo.</l></sp>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1310" part="I">Pessumu<expan><abbr>’</abbr><ex>s e</ex></expan>s homo.</l></sp>
 
 <sp><speaker>Psevdolvs</speaker>
 <l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1310b" part="F">Mulier haec facit.</l>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1311">cúm tuo fílio líbera accubat.</l></sp>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1311">cum tuo filio libera accubat.</l></sp>
 
 <sp><speaker>Simo</speaker>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1312">ómnia, ut quícque egisti, órdine scio.</l></sp>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1312">omnia, ut quicque egisti, ordine scio.</l></sp>
 
 <sp><speaker>Psevdolvs</speaker>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1313" part="I">Quíd ergo dubitas dáre mi argentum?</l></sp>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1313" part="I">Quid ergo dubitas dare mi argentum?</l></sp>
 
 <sp><speaker>Simo</speaker>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1313b" part="F">Iús petis, fateór. tene.</l></sp>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1313b" part="F">Ius petis, fateor. tene.</l></sp>
 
 <sp><speaker>Psevdolvs</speaker>
 <lb ed="actscene" n="30"/>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1314">át negabás daturum ésse te mihi.</l> 
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1315" part="I">onera húnc hominem atque me cónsequere hac.</l></sp> 
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1314">at negabas daturum esse te mihi.</l> 
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1315" part="I">onera hunc hominem atque me consequere hac.</l></sp> 
 
 <sp><speaker>Simo</speaker>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1315b" part="M">Egone ístum onerém?</l></sp>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1315b" part="M">Egone istum onerem?</l></sp>
 
 <sp><speaker>Psevdolvs</speaker>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1315c" part="F">Onerábis, scio.</l></sp>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1315c" part="F">Onerabis, scio.</l></sp>
 
 <sp><speaker>Simo</speaker>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1316">Quid ego huíc homini faciám? satin ultro et argéntum aufert et me ínridet?</l></sp>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1316">Quid ego huic homini faciam? satin ultro et argentum aufert et me inridet?</l></sp>
 
 <sp><speaker>Psevdolvs</speaker>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1317" part="I">Vae víctis.</l></sp>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1317" part="I">Vae victis.</l></sp>
 
 <sp><speaker>Simo</speaker>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1317b" part="F">Vorte ergo úmerum.</l></sp>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1317b" part="F">Vorte ergo umerum.</l></sp>
 
 <sp><speaker>Psevdolvs</speaker>
 <l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1318" part="I">Em.</l></sp>
 
 <sp><speaker>Simo</speaker>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1318b" part="F">Hóc ego numquam rátus sum</l>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1318b" part="F">Hoc ego numquam ratus sum</l>
 <lb ed="actscene" n="35"/>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1319">fore me, út tibi fierem súpplex.</l>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1320" part="I">heu heú heu.</l></sp>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1319">fore me, ut tibi fierem supplex.</l>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1320" part="I">heu heu heu.</l></sp>
 
 <sp><speaker>Psevdolvs</speaker>
 <l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1320b" part="M">Desine.</l></sp>
 
 <sp><speaker>Simo</speaker>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1320c" part="M">Dóleo.</l></sp>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1320c" part="M">Doleo.</l></sp>
 
 <sp><speaker>Psevdolvs</speaker>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1320d" part="F">Ni doléres tu, ego dolérem.</l></sp>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1320d" part="F">Ni doleres tu, ego dolerem.</l></sp>
 
 <sp><speaker>Simo</speaker>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1321" part="I">Quid? hoc aúferen, Pseudole mi, aps tuo ero?</l></sp>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1321" part="I">Quid? hoc auferen, Pseudole mi, aps tuo ero?</l></sp>
 
 <sp><speaker>Psevdolvs</speaker>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1321b" part="F">Lubentíssimo corde atque ánimo.</l></sp>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1321b" part="F">Lubentissimo corde atque animo.</l></sp>
 
 <sp><speaker>Simo</speaker>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1322">Non aúdes, quaeso, aliquám partem mihi grátiam facere hinc árgenti?</l></sp>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1322">Non audes, quaeso, aliquam partem mihi gratiam facere hinc argenti?</l></sp>
 
 <sp><speaker>Psevdolvs</speaker>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1323">Non: mé dices avidum ésse hominem nam hinc númquam eris nummo dívitior;</l>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1323">Non: me dices avidum esse hominem nam hinc numquam eris nummo divitior;</l>
 <lb ed="actscene" n="40"/>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1324">neque té mei tergi mísereret, si hoc nón hodie ecfecíssem.</l></sp>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1324">neque te mei tergi misereret, si hoc non hodie ecfecissem.</l></sp>
 
 <sp><speaker>Simo</speaker>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1325" part="I">Erit úbi te ulciscar, sí vivo.</l></sp>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1325" part="I">Erit ubi te ulciscar, si vivo.</l></sp>
 
 <sp><speaker>Psevdolvs</speaker>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1325b" part="F">Quid mínitare? habeo térgum.</l></sp>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1325b" part="F">Quid minitare? habeo tergum.</l></sp>
 
 <sp><speaker>Simo</speaker>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1326" part="I">Age sáne igitur.</l></sp>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1326" part="I">Age sane igitur.</l></sp>
 
 <sp><speaker>Psevdolvs</speaker>
 <l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1326b" part="M">Redi.</l></sp>
 
 <sp><speaker>Simo</speaker>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1326c" part="M">Quíd redeam?</l></sp>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1326c" part="M">Quid redeam?</l></sp>
 
 <sp><speaker>Psevdolvs</speaker>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1326d" part="F">Redi módo: non eris decéptus.</l></sp>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1326d" part="F">Redi modo: non eris deceptus.</l></sp>
 
 <sp><speaker>Simo</speaker>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1327" part="I">Redeó.</l></sp>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1327" part="I">Redeo.</l></sp>
 
 <sp><speaker>Psevdolvs</speaker>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1327b" part="M">Simul mecum <add>i</add> pótatum.</l></sp>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1327b" part="M">Simul mecum <add>i</add> potatum.</l></sp>
 
 <sp><speaker>Simo</speaker>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1327c" part="M">Egone éam?</l></sp>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1327c" part="M">Egone eam?</l></sp>
 
 <sp><speaker>Psevdolvs</speaker>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1327d" part="F">Fac quod te iúbeo:</l>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1328" part="I">si is, aút dimidium aut plús etiam faxo hínc feres.</l></sp>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1327d" part="F">Fac quod te iubeo:</l>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1328" part="I">si is, aut dimidium aut plus etiam faxo hinc feres.</l></sp>
 
 <sp><speaker>Simo</speaker>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1328b" part="F">Eo, duc mé quo vis.</l></sp>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1328b" part="F">Eo, duc me quo vis.</l></sp>
 
 <sp><speaker>Psevdolvs</speaker>
 <lb ed="actscene" n="45"/>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1329" part="I">Quid núnc? numquid íratus és aut mihi aút filió propter hás res, Simó?</l></sp>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1329" part="I">Quid nunc? numquid iratus es aut mihi aut filio propter has res, Simo?</l></sp>
 
 <sp><speaker>Simo</speaker>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1329b" part="M">Nil profécto.</l></sp>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1329b" part="M">Nil profecto.</l></sp>
 
 <sp><speaker>Psevdolvs</speaker>
 <l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1329c" part="F">I hac.</l></sp>
 
 <sp><speaker>Ballio</speaker>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1330">Té sequor. quín vocas spéctatorés simul?</l></sp>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1330">Te sequor. quin vocas spectatores simul?</l></sp>
 
 <sp><speaker>Psevdolvs</speaker>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1331">Hércle me isti haú solent</l>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1332">vocáre, neque ergo ego ístos;</l>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1333">vérum si vóltis adplaúdere atque ádprobare</l>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1331">Hercle me isti hau solent</l>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1332">vocare, neque ergo ego istos;</l>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1333">verum si voltis adplaudere atque adprobare</l>
 <lb ed="actscene" n="50"/>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1334">húnc gregem et fábulam,</l>
-<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1335">in crástinum vos vocábo.</l></sp>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1334">hunc gregem et fabulam,</l>
+<l xml:base="urn:cts:latinLit:phi0119.phi016.perseus-lat2" n="1335">in crastinum vos vocabo.</l></sp>
 </div></div></div></body></text></TEI>

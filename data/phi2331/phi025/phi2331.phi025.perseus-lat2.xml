@@ -58,7 +58,7 @@
                 <language ident="grc">Greek</language>
             </langUsage>
         </profileDesc>
-    <revisionDesc><change when="2016-11-20" who="Thibault Clérice">CapiTainS and Epidoc</change></revisionDesc></teiHeader> <text xml:lang="lat"> <body><div xml:lang="lat" type="edition" n="urn:cts:latinLit:phi2331.phi025.perseus-lat2">
+    <revisionDesc><change when="2016-11-20" who="Thibault Clerice">CapiTainS and Epidoc</change></revisionDesc></teiHeader> <text xml:lang="lat"> <body><div xml:lang="lat" type="edition" n="urn:cts:latinLit:phi2331.phi025.perseus-lat2">
 <div type="textpart" n="1" subtype="chapter">
 <p>
 <milestone unit="section" n="1"/>
@@ -308,7 +308,7 @@ superfuerant
 Byzantinis fortiter facientibus, pugnatum apud Thessalonicenses, quos Claudio absente obsederant
 <milestone unit="section" n="9"/>
 barbari, pugnatum in diversis regionibus, et ubique auspiciis Claudianis victi sunt Gothi, prorsus ut iam tunc Constantio Caesari nepoti futuro videretur Claudius securam parare rem publicam.
-<note n="n25.168.1">membra Damsté, Thörnell; uerba P,
+<note n="n25.168.1">membra Damste, Thörnell; uerba P,
 <foreign xml:lang="grc">*s</foreign>
 , Peter; reliqua Cas., Hohl. </note>
 <note n="n25.168.2"> salutem ins. by Hohl; om. in P ; lacuna assumed by Peter, c. ix. 1-2 incl. in letter of Claudius by Thörnell and Hohl; letter ended in c. viii. 6 by Peter. </note>

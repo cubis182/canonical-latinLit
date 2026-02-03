@@ -96,7 +96,7 @@
             <change when="2014-08-01" who="Stella Dee">edited markup</change>
             <change who="Zach Himes" when="2015-11-16">Edited teiHeader, converted to TEI P5 and
                 EpiDoc</change>
-            <change who="Thibault Clérice" when="2015-12-11">Merging</change>
+            <change who="Thibault Clerice" when="2015-12-11">Merging</change>
             <change who="Bridget Almas" when="2015-12-14">Bumging URN for P5 (phi1002.phi001.perseus-lat1 to phi1002.phi001.perseus-lat2)</change>
         </revisionDesc>
     </teiHeader>

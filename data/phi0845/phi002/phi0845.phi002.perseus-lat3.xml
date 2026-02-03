@@ -83,8 +83,8 @@
       </profileDesc>
       <revisionDesc>
          <change when="2017-10-31" who="Lisa Cerrato">Header changes to reflect information from two volumes.</change>
-         <change when="2016-11-16" who="Thibault Clérice">CapiTainS, Epidoc and Bumped URN</change>
-         <change when="2016-11-16" who="Thibault Clérice">Merged with ./phi0845.phi002.perseus-lat2 as composite work</change>
+         <change when="2016-11-16" who="Thibault Clerice">CapiTainS, Epidoc and Bumped URN</change>
+         <change when="2016-11-16" who="Thibault Clerice">Merged with ./phi0845.phi002.perseus-lat2 as composite work</change>
       </revisionDesc>
   </teiHeader>
 
@@ -10484,7 +10484,7 @@ adhibetur aetati tenerae sine vulnere.</p>
                         <note xml:id="n.v.2.p.186.2">vere S: om. AR.
 </note>
                         <note xml:id="n.v.2.p.186.3">angustis S: angustiis Aac.
-a Herba Santonica according to Pliny (N.H. XXVII. § 28) was a kind of absinthium or wormwood found in the territory of the Santoni in the province of Aquitania: the name of the town of Saintes in the department of Charentes Inférieure is derived from this tribe.
+a Herba Santonica according to Pliny (N.H. XXVII. § 28) was a kind of absinthium or wormwood found in the territory of the Santoni in the province of Aquitania: the name of the town of Saintes in the department of Charentes Inferieure is derived from this tribe.
 b Described in Chapter XIX above.
 
 </note>

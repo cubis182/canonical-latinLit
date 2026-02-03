@@ -58,7 +58,7 @@
                 <language ident="grc">Greek</language>
             </langUsage>
         </profileDesc>
-    <revisionDesc><change when="2016-11-20" who="Thibault Clérice">CapiTainS and Epidoc</change></revisionDesc></teiHeader> <text xml:lang="lat"> <body><div xml:lang="lat" type="edition" n="urn:cts:latinLit:phi2331.phi019.perseus-lat2">
+    <revisionDesc><change when="2016-11-20" who="Thibault Clerice">CapiTainS and Epidoc</change></revisionDesc></teiHeader> <text xml:lang="lat"> <body><div xml:lang="lat" type="edition" n="urn:cts:latinLit:phi2331.phi019.perseus-lat2">
 <div type="textpart" n="1" subtype="chapter">
 <p>
 <milestone unit="section" n="1"/>
@@ -265,7 +265,7 @@ Gygam
 <note target="n19.328.4"/>
 vocarent, senatus eum tantum timuit, ut
 <note n="n19.328.1">primus Ursinus (cf. Eutrop., ix. 1; Victor, Caes., xxv.); primum P, Peter.</note>
-<note n="n19.328.2">modo ins. by Damsté; om. in P and Peter.</note>
+<note n="n19.328.2">modo ins. by Damste; om. in P and Peter.</note>
 <note n="n19.328.3">ut om. in P.</note>
 <note n="n19.328.4">Gygam Peter; gigantam P. </note>
 <pb n="p.330"/>
@@ -717,9 +717,9 @@ et sacella et loca religiosa gratias agerent. Balbinus autem, homo timidior natu
 deinde Maximus Romam venit senatumque ingressus
 <note n="n19.360.1">propere Peter1, Jordan; p~ P; pretio Peter2.</note>
 <note n="n19.360.2">refectisque Peter; fecistisque P.</note>
-<note n="n19.360.3">qui ubi P, Novák; atque ibi Peter. </note>
-<note n="n19.360.4">quare statim P, Peter; quare dei. by Eyssenhardt and Novák.</note>
-<note n="n19.360.5">urbe Damsté; urbem P, Peter. </note>
+<note n="n19.360.3">qui ubi P, Novak; atque ibi Peter. </note>
+<note n="n19.360.4">quare statim P, Peter; quare dei. by Eyssenhardt and Novak.</note>
+<note n="n19.360.5">urbe Damste; urbem P, Peter. </note>
 <pb n="p.362"/>
 actis sibi gratiis contionem habuit, atque inde in Palatium cum Balbino et Gordiano victores se receperunt. </p>
 </div>
@@ -817,7 +817,7 @@ h. r. persecutor est Lenze; h. r. persecutores P;
 <add>ut</add>
 h. r. persecutor est Petschenig, Peter2.</note>
 <note n="n19.368.2">cum ins. by Peter; om. in P.</note>
-<note n="n19.368.3">omnes regias P, Damsté, Lenze; gemmis ornatas Peter. </note>
+<note n="n19.368.3">omnes regias P, Damste, Lenze; gemmis ornatas Peter. </note>
 <pb n="p.370"/>
 luco, qui est inter
 <note target="n19.370.1"/>
@@ -902,7 +902,7 @@ se Maximinus contulerat; plerique dicunt Emonam, alii Archimeam, certe quae
 <milestone unit="section" n="4"/>
 deserta a civibus venienti Maximino patuit, longum est omnia persequi, quae qui scire desiderat, is velim,
 <note n="n19.374.1">lupi urbem P; urbem del. by Peter.</note>
-<note n="n19.374.2">quam Damsté; qua P, Peter. </note>
+<note n="n19.374.2">quam Damste; qua P, Peter. </note>
 <pb n="p.376"/>
 ut saepe dixi, legat Cordum, qui haec omnia usque ad fabellam scripsit.
 <milestone unit="section" n="5"/>

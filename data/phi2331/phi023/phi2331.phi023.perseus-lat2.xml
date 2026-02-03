@@ -58,7 +58,7 @@
                 <language ident="grc">Greek</language>
             </langUsage>
         </profileDesc>
-    <revisionDesc><change when="2016-11-20" who="Thibault Clérice">CapiTainS and Epidoc</change></revisionDesc></teiHeader> <text xml:lang="lat"> <body><div xml:lang="lat" type="edition" n="urn:cts:latinLit:phi2331.phi023.perseus-lat2">
+    <revisionDesc><change when="2016-11-20" who="Thibault Clerice">CapiTainS and Epidoc</change></revisionDesc></teiHeader> <text xml:lang="lat"> <body><div xml:lang="lat" type="edition" n="urn:cts:latinLit:phi2331.phi023.perseus-lat2">
 <div type="textpart" n="1" subtype="chapter">
 <p>
 <milestone unit="section" n="1"/>
@@ -368,7 +368,7 @@ quod cum ad Gallienum pervenisset, non pudore, non maerore, non pietate commotus
 vivos exuri. quod populus factum tristius, quam quisquam aestimet, tulit, milites vero ita doluerunt ut non multo post vicem redderent.
 <note n="n23.34.1">decursis Eyssenhardt, Petschenig, Hohl; depulsis P, Peter. </note>
 <note n="n23.34.2"> rex P. </note>
-<note n="n23.34.3"> rimantes Ellis, Walter, Damsté; mirantes P, Peter. </note>
+<note n="n23.34.3"> rimantes Ellis, Walter, Damste; mirantes P, Peter. </note>
 <note n="n23.34.4"> agerent Jordan; ageret P, Peter. </note>
 <pb n="p.36"/>
 </p>

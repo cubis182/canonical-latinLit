@@ -86,8 +86,8 @@
          <change when="2022-03-29" who="Alison Babeu">Edited header and bibliographic data and added in page link.</change>
 	 <change when="2015-11-04" who="Zach Himes">Changed @rend="italics" to "italic". Fixed .json file</change> 
          <change when="2010-03-02" who="J. Matthew Harrington">Mark up text in XML, proofread</change>
-         <change when="2015-03-06" who="Thibault Clérice">converted to EpiDoc/CTS/Unicode</change>
-         <change when="2018-05-09" who="Thibault Clérice">Removed the volume from the citation scheme</change>
+         <change when="2015-03-06" who="Thibault Clerice">converted to EpiDoc/CTS/Unicode</change>
+         <change when="2018-05-09" who="Thibault Clerice">Removed the volume from the citation scheme</change>
       </revisionDesc>
 
 	  </teiHeader>

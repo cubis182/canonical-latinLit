@@ -58,7 +58,7 @@
                 <language ident="grc">Greek</language>
             </langUsage>
         </profileDesc>
-    <revisionDesc><change when="2016-11-20" who="Thibault Clérice">CapiTainS and Epidoc</change></revisionDesc></teiHeader> <text xml:lang="lat"> <body><div xml:lang="lat" type="edition" n="urn:cts:latinLit:phi2331.phi021.perseus-lat2">
+    <revisionDesc><change when="2016-11-20" who="Thibault Clerice">CapiTainS and Epidoc</change></revisionDesc></teiHeader> <text xml:lang="lat"> <body><div xml:lang="lat" type="edition" n="urn:cts:latinLit:phi2331.phi021.perseus-lat2">
 <div type="textpart" n="1" subtype="chapter">
 <p>
 <milestone unit="section" n="1"/>
@@ -127,7 +127,7 @@ Egressi igitur a senatu primum Capitolium escenderunt
 ac rem divinam fecerunt, deinde ad Rostra populum convocarunt. ubi cum orationem de sen-
 <note n="n21.452.1">ignobilitatem
 <gap reason="omitted"/>
-texerit Lipsius, Damsté (cf. Maxim., xx. 1); nobilitatem
+texerit Lipsius, Damste (cf. Maxim., xx. 1); nobilitatem
 <gap reason="omitted"/>
 † ei lexerit P, Peter.</note>
 <note n="n21.452.2">est Peter; sit P. On acclamations in the senate see note to Alex., vi. 1. </note>
@@ -281,7 +281,7 @@ ut
 alii dicunt, etiam fuste percussus est. neque sedasset tumultum, nisi infantem Gordianum purpuratum ad populum longissimi hominis collo superpositum produxisset. quo viso populus et milites usque adeo placati sunt ut amore illius in concordiam
 <milestone unit="section" n="5"/>
 redirent, neque umquam quisquam in illa aetate sic amatus est merito avi et avunculi, qui pro populo Romano contra Maximinum in Africa vitam fini-
-<note n="n21.464.1">ut Damsté; et P, Peter.</note>
+<note n="n21.464.1">ut Damste; et P, Peter.</note>
 <note n="n21.464.2">tetendit Madvig, Peter 2; tenuit P, Peter1.</note>
 <note n="n21.464.3">ut om. in P. </note>
 <pb n="p.466"/>
@@ -490,7 +490,7 @@ iam in ipso exordio principatus vestri cognoscere potuimus, qui leges Romanas ae
 <note n="n21.482.1">modum P. So Peter; reducitis om. in P.</note>
 <note n="n21.482.3">de legionibus P.</note>
 <note n="n21.482.4">tam ins. by Gruter and Peter; om. in P. </note>
-<note n="n21.482.5">sit Lessing, Damsté; sint P, Peter. </note>
+<note n="n21.482.5">sit Lessing, Damste; sint P, Peter. </note>
 <note n="n21.482.2">Otherwise unknown and, like the letter, probably fictitious. </note>
 <pb n="p.484"/>
 <milestone unit="section" n="5"/>
@@ -521,7 +521,7 @@ esse qui a plerisque Maximus dicitur; si quidem per haec tempora apud Graecos no
 <note n="n21.484.1">sceleratus Peter; sicelatus P.</note>
 <note n="n21.484.2">ut ins. by Bitschofsky; om. in P and by Peter.</note>
 <note n="n21.484.3">eos P.</note>
-<note n="n21.484.4">After dicantur some editors print: Sed Fortunatiano credamus, qui dicit Pupiénum dictum nomine suo, cognomine uero paterno Maximum, ut omnium stupore legentibus aboliti uideantur; rejected by Jordan and Peter; retained (with emendations by Cas.) by Patzig, Byz. Zeitschr., xiii. p. 49 f. </note>
+<note n="n21.484.4">After dicantur some editors print: Sed Fortunatiano credamus, qui dicit Pupienum dictum nomine suo, cognomine uero paterno Maximum, ut omnium stupore legentibus aboliti uideantur; rejected by Jordan and Peter; retained (with emendations by Cas.) by Patzig, Byz. Zeitschr., xiii. p. 49 f. </note>
 <pb n="p.486"/>
 </p>
 </div>

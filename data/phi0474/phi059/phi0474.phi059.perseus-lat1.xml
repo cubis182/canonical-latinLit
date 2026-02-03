@@ -79,7 +79,7 @@
 <change who="dasmith" when="2000-03-05">Added responsibility and funder info to TEI header.</change>
 <change who="dasmith" when="1999-08-04">Added encodingDesc and revisionDesc.</change>
 
-         <change when="2016-11-20" who="Thibault Clérice">CapiTainS and Epidoc</change>
+         <change when="2016-11-20" who="Thibault Clerice">CapiTainS and Epidoc</change>
       </revisionDesc>
    </teiHeader>
    <text xml:lang="lat">

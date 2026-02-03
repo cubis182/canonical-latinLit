@@ -60,7 +60,7 @@
                 <language ident="grc">Greek</language>
             </langUsage>
         </profileDesc>
-    <revisionDesc><change when="2016-11-20" who="Thibault Clérice">CapiTainS and Epidoc</change></revisionDesc></teiHeader> <text xml:lang="lat"> <body><div xml:lang="lat" type="edition" n="urn:cts:latinLit:phi2331.phi005.perseus-lat2">
+    <revisionDesc><change when="2016-11-20" who="Thibault Clerice">CapiTainS and Epidoc</change></revisionDesc></teiHeader> <text xml:lang="lat"> <body><div xml:lang="lat" type="edition" n="urn:cts:latinLit:phi2331.phi005.perseus-lat2">
 <div type="textpart" n="1" subtype="chapter">
 <p>
 <milestone unit="section" n="1"/>
@@ -204,7 +204,7 @@ sese absconderet. iaciebat et nummos in popinas
 <milestone unit="section" n="8"/>
 maximos, quibus calices frangeret, amavit et aurigas,
 <note n="n5.214.1">Thus Lenze; si susciperet obsecutus P; † si susciperet obsecutus Peter.</note>
-<note n="n5.214.2">So Damsté; Marcus pro ambobus P. </note>
+<note n="n5.214.2">So Damste; Marcus pro ambobus P. </note>
 <note n="n5.214.3">pro consensu imperii Jordan; pro consensus imperio P. </note>
 <note n="n5.214.4">Syria P, Peter.</note>
 <note n="n5.214.5">So Winterfeld; iuuentis P 1; iuuentutis P corr.; incestis Peter.</note>

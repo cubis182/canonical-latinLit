@@ -136,7 +136,7 @@
         <change who="dasmith" when="1999-08-04">Added encodingDesc and RevisionDesc.</change>
         
         
-         <change when="2016-11-20" who="Thibault Clérice">CapiTainS and Epidoc</change>
+         <change when="2016-11-20" who="Thibault Clerice">CapiTainS and Epidoc</change>
       </revisionDesc>
    </teiHeader>
    <text xml:lang="lat">
@@ -2847,8 +2847,8 @@
             mihi ipsi intenduntur et sescenta sunt; sed mihi nihil est molestius quam
               Statium manu missum; <quote>
                            <l>
-                              <reg>nec</reg> meum imperium, ac mátto imperium, nón
-                simultatém meam </l>
+                              <reg>nec</reg> meum imperium, ac matto imperium, non
+                simultatem meam </l>
                            <l>reverteri saltem!</l>
                         </quote>
                         <reg>nec</reg> quid faciam scio neque tantum est in re quantus est sermo. <reg>ego</reg>
@@ -2882,10 +2882,10 @@
             qua dominus qua advocati sibilis conscissi; ludis Apollinaribus
             Diphilus tragoedus in nostrum Pompeium petulanter invectus
             est; <quote>
-                           <l>nóstra miseriá tu es magnus—</l>
+                           <l>nostra miseria tu es magnus—</l>
                         </quote> miliens coactus est dicere; <quote>
-                           <l>Éandem virtutem ístam veniet témpus cum
-                gravitér gemes</l>
+                           <l>Eandem virtutem istam veniet tempus cum
+                graviter gemes</l>
                         </quote> totius theatri clamore dixit itemque cetera. <reg>nam</reg> et eius modi sunt
             ii versus uti in tempus ab inimico Pompei scripti esse videantur: <quote>
                            <l>
@@ -4497,7 +4497,7 @@
                   <div type="textpart" n="8" subtype="section">
                      <p>
                         <reg>ita</reg> sunt res nostrae, <quote>
-                           <l>ut ín secundis flúxae, ut in advorsís bonae.</l>
+                           <l>ut in secundis fluxae, ut in advorsis bonae.</l>
                         </quote>
                         <reg>in</reg> re familiari valde sumus, ut scis, perturbati. <reg>praeterea</reg> sunt
             quaedam domestica quae litteris non committo. <reg>quin</reg> tum fratrem insigni
@@ -4524,7 +4524,7 @@
             ut veni Romam, iterum nunc sum certior factus esse cui darem litteras;
             itaque has alteras dedi. <reg>prioribus</reg> tibi declaravi adventus noster qualis
             fuisset et quis esset status atque omnes res nostrae quem ad modum essent, <quote>
-                           <l>ut ín secundis flúxae, ut in advorsís bonae.</l>
+                           <l>ut in secundis fluxae, ut in advorsis bonae.</l>
                         </quote>
                         <milestone ed="P" unit="para"/>
                      </p>
@@ -6420,8 +6420,8 @@
             dabam, in <pb/> castra in Lycaoniam. <reg>inde</reg> ad Taurum
             cogitabam, ut cum Moeragene signis collatis, si possem, de servo tuo deciderem. <quote>
                            <l>
-                              <reg>clítellae</reg> bovi súnt impositae; pláne
-                non est nóstrum onus.</l>
+                              <reg>clitellae</reg> bovi sunt impositae; plane
+                non est nostrum onus.</l>
                         </quote>
                         <reg>sed</reg> feremus, modo, si me amas, sim annuus adsis tu ad tempus ut senatum totum
             excites. <reg>mirifice</reg> sollicitus sum quod iam diu mihi ignota sunt ista omnia.
@@ -8545,16 +8545,16 @@
               Dionysius noster et qui est nobiscum Nicias
             Cous non rebatur oppidum esse Piraeea. <reg>sed</reg> de re videro.
               <reg>nostrum</reg> quidem si est peccatum, in eo est quod non ut de oppido locutus sum
-            sed ut de loco secutusque sum non dico Caecilium, <quote>máne ut
-              ex portu ín Piraeum</quote> (malus enim auctor
+            sed ut de loco secutusque sum non dico Caecilium, <quote>mane ut
+              ex portu in Piraeum</quote> (malus enim auctor
               Latinitatis est), sed Terentium cuius <pb/> fabellae propter
             elegantiam sermonis putabantur a C. Laelio scribi, <quote>
                            <l>
-                              <reg>heri</reg> áliquot adulescéntuli coíimus in
-                Piraéum,</l>
+                              <reg>heri</reg> aliquot adulescentuli coiimus in
+                Piraeum,</l>
                         </quote> et idem, <quote>
-                           <l>Mercátor hoc addébat, captam e
-                Súnio.</l>
+                           <l>Mercator hoc addebat, captam e
+                Sunio.</l>
                         </quote>
                         <reg>quod</reg> si <foreign xml:lang="greek">δήμουσ</foreign> oppida volumus esse, tam est
             oppidum Sunium quam Piraeus. <reg>sed</reg> quoniam
@@ -9758,7 +9758,7 @@
               Picentium cohortibus. <reg>omnia</reg> erant facta hoc biduo laetiora.
               <reg>itaque</reg> fuga quae parabatur repressa est; Caesaris interdicta, <quote>
                            <l>
-                              <reg>si</reg> te/ secundo lúmine hic offéndero—</l>
+                              <reg>si</reg> te/ secundo lumine hic offendero—</l>
                         </quote> respuuntur; bona de Domitio, praeclara de Afranio
             fama est. <milestone ed="P" unit="para"/>
                      </p>
@@ -15743,7 +15743,7 @@
             unctumque repetemus. <reg>sed</reg> ad prima redeo. <reg>librum</reg>, si me amas,
             mitte. <reg>tuus</reg> est enim profecto, quoniam quidem est missus ad te. <milestone n="3" unit="section"/>
                         <quote>
-                           <l>Chremés, tantumne ab ré tua est otí tibi,</l>
+                           <l>Chremes, tantumne ab re tua est oti tibi,</l>
                         </quote> ut etiam Oratorem legas? <reg>macte</reg> virtute! <reg>mihi</reg>
             quidem gratum <hi rend="italic">est</hi> et erit gratius si non modo in tuis libris sed
             etiam in aliorum per librarios tuos <quote>
@@ -17419,8 +17419,8 @@
             Caerellia quid tibi placeret Tiro mihi narravit; debere non
             esse dignitatis meae, perscriptionem tibi placere: <quote>
                            <l>
-                              <reg>hoc</reg> métuere, alterum ín metu non
-                pónere.</l>
+                              <reg>hoc</reg> metuere, alterum in metu non
+                ponere.</l>
                         </quote>
                         <reg>sed</reg> et haec et multa alia coram. <reg>sustinenda</reg> tamen, si tibi
             videbitur, solutio est nominis Caerelliani dum et de Metone et de
@@ -20800,9 +20800,9 @@
             illud quod mihi placeret non probari. <reg>qua</reg> re sine, quaeso, sibi quemque
             scribere, <quote>
                            <l>
-                              <reg>suam</reg> quoíque sponsam, míhi meam; suum
-                quoíque </l>
-                           <l>amorem, míhi meum.</l>
+                              <reg>suam</reg> quoique sponsam, mihi meam; suum
+                quoique </l>
+                           <l>amorem, mihi meum.</l>
                         </quote>
                         <reg>non</reg> scite. <reg>hoc</reg> enim Atilius, poeta durissimus.
               <reg>atque</reg> utinam liceat isti contionari! <reg>cui</reg> si esse in urbe tuto
@@ -20878,7 +20878,7 @@
             illa res est animo virili, consilio puerili. <reg>quis</reg> enim hoc non vidit, regni
             heredem relictum? <reg>quid</reg> autem absurdius? <quote>
                            <reg>hoc</reg>
-              métuere, alterum ín metu non pónere!</quote>
+              metuere, alterum in metu non ponere!</quote>
                         <reg>quin</reg> etiam hoc ipso tempore multa <foreign xml:lang="greek">ὑποσόλοικα</foreign>. Ponti
             Neapolitanum a matre tyrannoctoni possideri! <reg>legendus</reg> mihi
             saepius est <quote>Cato maior</quote> ad te missus. <reg>amariorem</reg>
@@ -21003,8 +21003,8 @@
             tibi molestam scribis esse auditam a te esse omnino demiror. <reg>nam</reg> quod eam
             conlaudavi apud amicos audientibus tribus filiis eius et filia tua, †<foreign xml:lang="greek">τὸ ἐκ τούτου</foreign> quid est hoc?†
                 <quote>
-                           <reg>quid</reg> est aútem cur ego pérsonatus
-              ámbulem?</quote>
+                           <reg>quid</reg> est autem cur ego personatus
+              ambulem?</quote>
             Parumne foeda persona est ipsius senectutis? <reg>quod</reg>
             Brutus rogat ut ante Kalendas, ad me quoque scripsit et
             fortasse faciam. <reg>sed</reg> plane quid velit nescio. <reg>quid</reg> enim illi
@@ -22446,7 +22446,7 @@
             laetiora sunt, eo plus stomachi et molestiae est populum Romanum manus suas
             non in defendenda re publica sed in plaudendo consumere. <reg>mihi</reg> quidem videntur
             istorum animi incendi etiam ad repraesentandam improbitatem suam. <reg>sed</reg> tamen <quote>
-                           <l>dúm modo doleant áliquid, doleant quídlibet.</l>
+                           <l>dum modo doleant aliquid, doleant quidlibet.</l>
                         </quote>
                         <milestone ed="P" unit="para"/>
                      </p>

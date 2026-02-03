@@ -80,7 +80,7 @@
       </profileDesc>
 
       <revisionDesc>
-        <change who="Thibault Clérice" when="2016-11-16">CapiTainS, Epidoc and Bump</change>
+        <change who="Thibault Clerice" when="2016-11-16">CapiTainS, Epidoc and Bump</change>
          <change who="gcrane" when="2011-01-15">base file for sdl</change> 
          <change who="rsingh04" when="2009-11-24">moved more xml files around based on copyright status</change> 
          <change who="lcerrato" when="2008-11-14">fixed author name for consistent sorting</change> 

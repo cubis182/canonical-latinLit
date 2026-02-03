@@ -58,7 +58,7 @@
                 <language ident="grc">Greek</language>
             </langUsage>
         </profileDesc>
-    <revisionDesc><change when="2016-11-20" who="Thibault Clérice">CapiTainS and Epidoc</change></revisionDesc></teiHeader> <text xml:lang="lat"> <body><div xml:lang="lat" type="edition" n="urn:cts:latinLit:phi2331.phi018.perseus-lat2">
+    <revisionDesc><change when="2016-11-20" who="Thibault Clerice">CapiTainS and Epidoc</change></revisionDesc></teiHeader> <text xml:lang="lat"> <body><div xml:lang="lat" type="edition" n="urn:cts:latinLit:phi2331.phi018.perseus-lat2">
 <div type="textpart" n="1" subtype="chapter">
 <p>
 <milestone unit="section" n="1"/>
@@ -1002,7 +1002,7 @@ comedas velim lepusclos, ut fias animi malis repulsis, pulchris ne invideas livo
 <add>pulchrum</add>
 Peiper, Peter2;
 <add>pulchrum</add>
-quod sua detulit propago Damsté. </note>
+quod sua detulit propago Damste. </note>
 <note n="n18.252.3"> putas esse
 <add>uestrum</add>
 regem Egnatius, Peter; putasse se regem P. </note>

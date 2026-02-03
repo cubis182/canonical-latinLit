@@ -70,7 +70,7 @@
 <change who="gcrane" when="2006-05-04">added to repository</change>
 <change who="gcrane" when="2006-05-03">added to repository</change>
 
-         <change when="2016-11-20" who="Thibault Clérice">CapiTainS and Epidoc</change>
+         <change when="2016-11-20" who="Thibault Clerice">CapiTainS and Epidoc</change>
       </revisionDesc>
    </teiHeader>
    <text xml:lang="la">
@@ -654,20 +654,20 @@ spoliaretur.
             <div type="textpart" n="35" subtype="section">
                <p >Ex hoc genere illud est Ennii:
 <quote rend="blockquote">
-                     <l>Utinám ne in nemore Pélio secúribus </l>
-                     <l>Caesae áccidissent ábiegnae ad terrám trabes!</l>
+                     <l>Utinam ne in nemore Pelio securibus </l>
+                     <l>Caesae accidissent abiegnae ad terram trabes!</l>
                   </quote>
 Licuit vel altius: <quote>Utinam ne in Pelio nata ulla umquam esset arbor!</quote> etiam supra: <quote>Utinam ne esset <pb n="p.265"/>
 mons ullus Pelius!</quote> similiterque superiora repetentem
 regredi infinite licet.
 <quote rend="blockquote">
-                     <l>Neve índe navis ínchoandi exórdium</l>
-                     <l part="I">Coepísset.</l>
+                     <l>Neve inde navis inchoandi exordium</l>
+                     <l part="I">Coepisset.</l>
                   </quote>
 Quorsum haec praeterita? Quia sequitur illud:
 <quote rend="blockquote">
-                     <l>Nam númquam era errans méa domo ecferrét pedem, </l>
-                     <l>Medéa, animo aegra, amóre saevo saúcia,</l>
+                     <l>Nam numquam era errans mea domo ecferret pedem, </l>
+                     <l>Medea, animo aegra, amore saevo saucia,</l>
                   </quote>
 †non ut eae res causam adferrent amoris.
 </p>

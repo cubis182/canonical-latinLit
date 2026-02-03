@@ -71,7 +71,7 @@
       </profileDesc>
       
       <revisionDesc>
-         <change when="2016-11-20" who="Thibault Clérice">CapiTainS and Epidoc</change>
+         <change when="2016-11-20" who="Thibault Clerice">CapiTainS and Epidoc</change>
          <change when="2022-11-03" who="Alison Babeu">Updated header and metadata</change>
       </revisionDesc>
    </teiHeader>
@@ -226,8 +226,8 @@
                </div>
                <div type="textpart" n="26" subtype="section">
                   <p > Maxime autem adducuntur plerique, ut eos iustitiae capiat oblivio, cum in imperiorum, honorum, gloriae cupiditatem inciderunt. Quod enim est apud Ennium: <quote rend="blockquote"> 
-                        <l part="M">Núlla sancta sócietas</l> 
-                        <l>Néc fides regni ést.</l>
+                        <l part="M">Nulla sancta societas</l> 
+                        <l>Nec fides regni est.</l>
                      </quote> id latius patet. Nam quicquid eius modi est, in quo non possint plures excellere, in eo fit plerumque tanta contentio, ut difficillimum sit servare <quote>sanctam societatem.</quote> Declaravit id modo temeritas C. Caesaris, qui omnia iura divina et humana pervertit propter eum, quem sibi ipse opinionis errore finxerat, principatum. Est autem in hoc genere molestum, quod in maximis animis splendidissimisque ingeniis plerumque exsistunt honoris, imperii, potentiae, gloriae cupiditates. Quo magis cavendum est, ne quid in eo genere peccetur.</p>
                   <p >
 </p>
@@ -388,9 +388,9 @@ M. quidem Catonis senis est epistula ad M. filium, in qua scribit se audisse eum
                </div>
                <div type="textpart" n="51" subtype="section">
                   <p > Ac latissime quidem patens hominibus inter ipsos, omnibus inter omnes societas haec est; in qua omnium rerum, quas ad communem hominum usum natura genuit, est servanda communitas, ut, quae discripta sunt legibus et iure civili, haec ita teneantur, ut sit constitutum legibus ipsis, cetera sic observentur, ut in Graecorum proverbio est, amicorum esse communia omnia. Omnium autem communia hominum videntur ea, quae sunt generis eius, quod ab Ennio positum in una re transferri in permultas potest: <quote rend="blockquote"> 
-                        <l>Homó, qui erranti cómiter monstrát viam,</l> 
-                        <l>Quasi lúmen de suo lúmine accendát, facit.</l> 
-                        <l>Nihiló minus ipsi lúcet, cum illi accénderit.</l>
+                        <l>Homo, qui erranti comiter monstrat viam,</l> 
+                        <l>Quasi lumen de suo lumine accendat, facit.</l> 
+                        <l>Nihilo minus ipsi lucet, cum illi accenderit.</l>
                      </quote> Una ex re satis praecipit, ut, quicquid sine detrimento commodari possit, id tribuatur vel ignoto;
 </p>
                </div>
@@ -445,12 +445,12 @@ M. quidem Catonis senis est epistula ad M. filium, in qua scribit se audisse eum
                </div>
                <div type="textpart" n="61" subtype="section">
                   <p > Intelligendum autem est, cum proposita sint genera quattuor, e quibus honestas officiumque manaret, splendidissimum videri, quod animo magno elatoque humanasque res despiciente factum sit. Itaque in probris maxime in promptu est si quid tale dici potest: <quote rend="blockquote"> 
-                        <l>Vós enim, iuvenes, ánimum geritis múliebrem,</l> 
+                        <l>Vos enim, iuvenes, animum geritis muliebrem,</l> 
                         <l>
-                           <quote>ílla</quote> virgo <quote>viri</quote> 
+                           <quote>illa</quote> virgo <quote>viri</quote> 
                         </l>
                      </quote> et si quid eius modi: <quote rend="blockquote"> 
-                        <l>Salmácida, spolia sÍne sudore et sánguine.</l>
+                        <l>Salmacida, spolia sIne sudore et sanguine.</l>
                      </quote> 
                      <pb n="p.64"/> Contraque in laudibus, quae magno animo et fortiter excellenterque gesta sunt, ea nescio quo modo quasi pleniore ore laudamus. Hinc rhetorum campus de Marathone, Salamine, Plataeis, Thermopylis, Leuctris, hine noster Cocles, hinc Decii, hinc Cn. et P. Scipiones, hinc M. Marcellus, innumerabiles alii, maximeque ipse populus Romanus animi magnitudine excellit. Declaratur autem studium bellicae gloriae, quod statuas quoque videmus ornatu fere militari.</p>
                   <p >
@@ -663,9 +663,9 @@ M. quidem Catonis senis est epistula ad M. filium, in qua scribit se audisse eum
                <div type="textpart" n="97" subtype="section">
                   <p >
                      <milestone unit="chapter" n="28"/> Haec ita intellegi possumus existimare ex eo decoro, quod poetae sequuntur; de quo alio loco plura dici solent. Sed tum servare illud poëtas, quod deceat, dicimus, cum id, quod quaque persona dignum est, et fit et dicitur; ut, si Aeacus aut Minos diceret: <quote rend="blockquote"> 
-                        <l>óderint, dum métuant,</l>
+                        <l>oderint, dum metuant,</l>
                      </quote> aut: <quote rend="blockquote"> 
-                        <l>natís sepulchre ipse ést parens,</l>
+                        <l>natis sepulchre ipse est parens,</l>
                      </quote> 
                      <pb n="p.100"/> indecorum videretur, quod eos fuisse iustos accepimus;  at Atreo dicente plausus excitantur; est enim digna persona oratio. Sed poëtae, quid quemque deceat, ex persona iudicabunt; nobis autem personam imposuit ipsa natura magna cum excellentia praestantiaque animantium reliquarum.</p>
                   <p >
@@ -907,8 +907,8 @@ M. quidem Catonis senis est epistula ad M. filium, in qua scribit se audisse eum
                </div>
                <div type="textpart" n="139" subtype="section">
                   <p > Ornanda enim est dignitas domo, non ex domo tota quaerenda, nec domo dominus, sed domino domus honestanda est, et, ut <pb n="p.142"/> in ceteris habenda ratio non sua solum, sed etiam aliorum, sic in domo clari hominis, in quam et hospites multi recipiendi et admittenda hominum cuiusque modi multitudo, adhibenda cura est laxitatis; aliter ampla domus dedecori saepe domino fit, si est in ea solitudo, et maxime, si aliquando alio domino solita est frequentari. Odiosum est enim, cum a praetereuntibus dicitur: <quote rend="blockquote"> 
-                        <l>O domus ántiqua, heu quam dispari</l> 
-                        <l part="I">domináre domino!</l>
+                        <l>O domus antiqua, heu quam dispari</l> 
+                        <l part="I">dominare domino!</l>
                      </quote> quod quidem his temporibus in multis licet dicere.</p>
                   <p >
 </p>
@@ -972,7 +972,7 @@ M. quidem Catonis senis est epistula ad M. filium, in qua scribit se audisse eum
                <div type="textpart" n="150" subtype="section">
                   <p >
                      <milestone unit="chapter" n="42"/> Iam de artificiis et quaestibus, qui liberales habendi, qui sordidi sint, haec fere accepimus. Primum improbantur ii quaestus, qui in odia hominum incurrunt, ut portitorum, ut faeneratorum. Illiberales autem et sordidi quaestus mercennariorum omnium, quorum operae, non quorum artes emuntur; est enim in illis ipsa merces auctoramentum servitutis. Sordidi etiam putandi, qui mercantur a mercatoribus, quod statim vendant; nihil enim proficiant, nisi admodum mentiantur; nec vero est quicquam turpius vanitate. Opificesque omnes in sordida arte versantur; nec enim quicquam ingenuum habere potest officina. Minimeque artes eae probandae, quae ministrae sunt voluptatum: <quote rend="blockquote"> 
-                        <l>Cetárii, lanií, coqui, fartóres, piscatóres,</l>
+                        <l>Cetarii, lanii, coqui, fartores, piscatores,</l>
                      </quote> 
                      <pb n="p.154"/> ut ait Terentius; adde hue, si placet, unguentarios, saltatores totumque ludum talarium.</p>
                   <p >
@@ -1164,7 +1164,7 @@ M. quidem Catonis senis est epistula ad M. filium, in qua scribit se audisse eum
                <div type="textpart" n="23" subtype="section">
                   <p >
                      <milestone unit="chapter" n="7"/> Omnium autem rerum nec aptius est quicquam ad opes tuendas ac tenendas quam diligi nec alienius quam timeri. Praeclare enim Ennius:  <quote rend="blockquote"> 
-                        <l>Quém metuunt, odérunt; quem quisque ódit, periisse éxpetit.</l>
+                        <l>Quem metuunt, oderunt; quem quisque odit, periisse expetit.</l>
                      </quote> Multorum autem odiis nullas opes posse obsistere, si antea fuit ignotum, nuper est cognitum. Nec vero huius tyranni solum, quem armis oppressa pertulit civitas ac paret cum maxime mortuo, interitus declarat, quantum odium hominum valeat ad pestem, sed reliquorum similes exitus tyrannorum, quorum haud fere quisquam talem interitum effugit; malus enim est custos diuturnitatis metus contraque benivolentia fidelis vel ad perpetuitatem.</p>
                   <p >
 </p>
@@ -1389,7 +1389,7 @@ M. quidem Catonis senis est epistula ad M. filium, in qua scribit se audisse eum
                </div>
                <div type="textpart" n="62" subtype="section">
                   <p > Propensior benignitas esse debebit in calamitosos, nisi forte erunt digni calamitate. In iis tamen, qui se adiuvari volent, non ne affligantur, sed ut altiorem gradum ascendant, restricti omnino esse nullo modo debemus, sed in deligendis idoneis iudicium et diligentiam adhibere. Nam praeclare Ennius: <quote rend="blockquote"> 
-                        <l>Bene fácta male locáta male facta árbitror.</l>
+                        <l>Bene facta male locata male facta arbitror.</l>
                      </quote>
                   </p>
                   <p >
@@ -2016,8 +2016,8 @@ M. quidem Catonis senis est epistula ad M. filium, in qua scribit se audisse eum
                   <p >
                      <milestone unit="chapter" n="21"/> Quid? qui omnia recta et honesta neglegunt, dum modo potentiam consequantur, nonne idem faciunt, quod is, qui etiam socerum habere voluit eum, cuius ipse audacia potens esset? Utile ei videbatur plurimum posse alterius invidia; id quam iniustum in patriam et quam turpe esset, non videbat. Ipse autem socer in ore semper Graecos versus de Phoenissis habebat, quos dicam, ut potero, incondite fortasse, sed tamen, ut res possit intellegi: <pb n="p.356"/> 
                      <quote rend="blockquote"> 
-                        <l>Nam sí violandum est Iús, regnandi grátia</l> 
-                        <l>Violándum est; aliis rébus pietatém colas.</l>
+                        <l>Nam si violandum est Ius, regnandi gratia</l> 
+                        <l>Violandum est; aliis rebus pietatem colas.</l>
                      </quote> Capitalis <del>Eteocles vel potius Euripides</del>, qui id unum, quod omnum sceleratissimum fuerit, exceperit!
 </p>
                </div>
@@ -2028,7 +2028,7 @@ M. quidem Catonis senis est epistula ad M. filium, in qua scribit se audisse eum
                </div>
                <div type="textpart" n="84" subtype="section">
                   <p > Non habeo, ad volgi opinionem quae maior utilitas quam regnandi esse possit; nihil contra inutilius ei, qui id iniuste consecutus sit,invenio,cum ad veritatem <pb n="p.358"/> coepi revocare rationem. Possunt enim cuiquam esse utiles angores, sollicitudines, diurni et nocturni metus, vita insidiarur periculorumque plenissima? <quote rend="blockquote"> 
-                        <l>Múlti iniqui atque ínfideles régno, pauci bénivoli,</l>
+                        <l>Multi iniqui atque infideles regno, pauci benivoli,</l>
                      </quote> inquit Accius. At cui regno? Quod a Tantalo et Pelope proditum iure optinebatur. Nam quanto pluris ei regi putas, qui exercitu populi Romani populum ipsum Romanum oppressisset civitatemque non modo liberam, sed etiam gentibus imperantem servire sibi coëgisset?
 </p>
                </div>
@@ -2158,12 +2158,12 @@ M. quidem Catonis senis est epistula ad M. filium, in qua scribit se audisse eum
                </div>
                <div type="textpart" n="98" subtype="section">
                   <p > Quid enim auditurum putas fuisse Ulixem,si in illa simulatione perseveravisset? qui cummaximas res gesserit in bello, tamen haec audiat ab Aiace: <quote rend="blockquote"> 
-                        <l>Cuius ípse princeps iúris iurandí fuit,</l> 
-                        <l>Quod ómnes scitis, sólus neglexít fidem;</l> 
-                        <l>Furere ássimulare, né coiret, ínstitit.</l> 
-                        <l>Quodní Palamedi pérspicax prudéntia</l> 
-                        <l>Istíus percepset málitiosam audáciam,</l> 
-                        <l>Fidé sacratae iús perpetuo fálleret.</l>
+                        <l>Cuius ipse princeps iuris iurandi fuit,</l> 
+                        <l>Quod omnes scitis, solus neglexit fidem;</l> 
+                        <l>Furere assimulare, ne coiret, institit.</l> 
+                        <l>Quodni Palamedi perspicax prudentia</l> 
+                        <l>Istius percepset malitiosam audaciam,</l> 
+                        <l>Fide sacratae ius perpetuo falleret.</l>
                      </quote>
                   </p>
                </div>
@@ -2189,8 +2189,8 @@ M. quidem Catonis senis est epistula ad M. filium, in qua scribit se audisse eum
                <div type="textpart" n="102" subtype="section">
                   <p > Quid est igitur, dixerit quis, in iure iurando? num iratum timemus lovem? At hoc quidem commune est omnium philosophorum, non eorum modo, qui deum nihil habere ipsum negotii dicunt, nihil exhibere alteri, sed eorum etiam, qui deum semper agere aliquid et moliri volunt, numquam nec irasci deum nec nocere. Quid autem iratus Iuppiter plus <pb n="p.380"/> nocere potuisset, quam nocuit sibi ipse Regulus Nulla igitur vis fuit religionis, quae tantam utilitatem perverteret.</p>
                   <p >An ne turpiter faceret? Primum minima de malis. Num igitur tantum mali turpitude ista habebat, quantum ille cruciatus? Deinde illud etiam apud Accium: <quote rend="blockquote"> 
-                        <l part="F">Fregistín fidem?</l> 
-                        <l>Néque dedi neque do ínfideli cuíquam</l>
+                        <l part="F">Fregistin fidem?</l> 
+                        <l>Neque dedi neque do infideli cuiquam</l>
                      </quote> quamquam ab impio rege dicitur, luculente tamen dicitur.</p>
                   <p >
 </p>
@@ -2210,7 +2210,7 @@ M. quidem Catonis senis est epistula ad M. filium, in qua scribit se audisse eum
                   </p>
                   <pb n="p.382"/>
                   <p >Haec quidem ratio non magis contra Reguli quam contra omne ius iurandum valet. Sed in iure iurando non qui metus, sed quae vis sit, debet intellegi; est enim ius iurandum affirmatio religiosa; quod autem affirmate quasi deo teste promiseris, id tenendum est. Iam enim non ad iram deorum, quae nulla est, sed ad iustitiam et ad fidem pertinet. Nam praeclare Ennius: <quote rend="blockquote"> 
-                        <l>Ó Fides alma ápta pinnis ét ius iurandúm Iovis!</l>
+                        <l>O Fides alma apta pinnis et ius iurandum Iovis!</l>
                      </quote> Qui ius igitur iurandum violat, is Fidem violat, quam in Capitolio <quote>vicinam Iovis optimi maximi,</quote> ut in Catonis oratione est, maiores nostri esse voluerunt. </p>
                   <p >
 </p>
@@ -2224,7 +2224,7 @@ M. quidem Catonis senis est epistula ad M. filium, in qua scribit se audisse eum
                <div type="textpart" n="106" subtype="section">
                   <p > Itaque nervosius qui ista disserunt, solum audent malum dicere id, quod turpe sit, qui autem remissius, ii tamen non dubitant summum malum dicere.</p>
                   <p >Nam illud quidem: <quote rend="blockquote"> 
-                        <l>Néque dedi neque do ínfideli cuíquam</l>
+                        <l>Neque dedi neque do infideli cuiquam</l>
                      </quote> idcirco recte a poeta, quia, cum tractaretur Atreus,  personae serviendum fuit. Sed si hoc sibi sument, nullam esse fidem, quae infideli data sit, videant, ne quaeratur latebra periurio.</p>
                   <p >
 </p>
@@ -2235,7 +2235,7 @@ M. quidem Catonis senis est epistula ad M. filium, in qua scribit se audisse eum
                </div>
                <div type="textpart" n="108" subtype="section">
                   <p > Non enim falsum iurare periurare est, sed, quod <quote rend="smallcaps">EX ANIMI TUI SENTENTIA</quote> iuraris, sicut verbis concipitur more nostro, id non facere periurium est. Scite enim Euripides: <quote rend="blockquote"> 
-                        <l>Iurávi lingua, méntem iniuratám gero.</l>
+                        <l>Iuravi lingua, mentem iniuratam gero.</l>
                      </quote> Regulus vero non debuit condiciones pactionesque bellicas et hostiles perturbare periurio. Cum iusto enim et legitimo hoste res gerebatur, adversus quem et totum ius fetiale et multa sunt iura communia. Quod ni ita esset, numquam claros viros senatus vinctos hostibus dedidisset.</p>
                   <p >
 </p>

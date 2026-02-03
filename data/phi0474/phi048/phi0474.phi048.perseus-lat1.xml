@@ -82,7 +82,7 @@ fasc. 43</title>
 <change who="gcrane" when="2006-04-28">small fixes</change>
 <change who="gcrane" when="2006-04-26">added to repository</change>
 
-         <change when="2016-11-20" who="Thibault Clérice">CapiTainS and Epidoc</change>
+         <change when="2016-11-20" who="Thibault Clerice">CapiTainS and Epidoc</change>
       </revisionDesc>
    </teiHeader>
    <text xml:lang="la">
@@ -105,7 +105,7 @@ desinit enim IV 16 (cf. ad p. 126,25). Eius codicis praestantiam cognovit Gruter
 de finibus adscriptis saepe commemorat. Plenam huius
 libri collationem, quam G. Baiter in editione Turicensi
 altera (1861) proposuit, fecit Carolus Prien idemque codicem accurate descripsit<note>Carl Halm, <hi rend="italics">Zur Handschriftenkunde der ciceronischen
-Schriften,</hi> München 1850, p. 16 sq.</note>); specimen eius exstat apud Chatelain.<note>Émile Chatelain, <hi rend="italics">Paléographie des classiques latins,</hi> première partie, Paris 1884—1892, tab. XLIII.</note>)</p>
+Schriften,</hi> München 1850, p. 16 sq.</note>); specimen eius exstat apud Chatelain.<note>Emile Chatelain, <hi rend="italics">Paleographie des classiques latins,</hi> première partie, Paris 1884—1892, tab. XLIII.</note>)</p>
             <p >2. Palatinus 1525 (= B) in bibliotheca Vaticana, charta-
 ceus<note type="marg">B</note> formae maximae, saec. XV; in folio 215 legitur annus
 1467. Permultos hic codex continet Ciceronis libros et orationes<note>Disputavit de eo C. Halmius copiosius in libro, qui inscribitur <quote>Archiv für Philologie und Päidagogik, 15. Band</quote> vel
@@ -2392,7 +2392,7 @@ qua sensus dulciter ac iucunde movetur, quam etiam
 pecudes, si loqui possent, appellarent voluptatem, aut,
 si magis placeret suo more loqui, quam ut
 <quote rend="blockquote">
-                        <l>Omnés Danai atque Mycénenses.<note>atque <hi rend="italics">Lamb.</hi> aut (a<gap reason="illegible"/> E)</note>
+                        <l>Omnes Danai atque Mycenenses.<note>atque <hi rend="italics">Lamb.</hi> aut (a<gap reason="illegible"/> E)</note>
                         </l>
                         <l>Attica pubes </l>
                      </quote>
@@ -3841,8 +3841,8 @@ est, non dico dolere—nam id quidem est interdum<note>interdum est A</note>
 necesse—, sed saxum illud Lemnium clamore Philocteteo<note>philocteteo A<hi rend="sup">2</hi> philocteto A<hi rend="sup">1</hi>R philoctere BE phyloctete N
 phylotete V</note> funestare,
 <quote rend="blockquote">
-                        <l>Quod éiulatu,<note>heiulatu ARN</note> quéstu, gemitu, frémitibus</l>
-                        <l>Resonándo mutum flébiles vocés refert.</l>
+                        <l>Quod eiulatu,<note>heiulatu ARN</note> questu, gemitu, fremitibus</l>
+                        <l>Resonando mutum flebiles voces refert.</l>
                      </quote>
 Huic Epicurus praecentet,<note>praecentet BE <hi rend="overline">p</hi>
                         <hi rend="overline">
@@ -3856,8 +3856,8 @@ et) N<hi rend="sup">2</hi>
                            <add>E</add>
                            <note>
                               <hi rend="italics">add. Bai.</hi>
-                           </note> víperino mórsu venae víscerum</l>
-                        <l>Venéno inbutae taétros cruciatús cient!</l>
+                           </note> viperino morsu venae viscerum</l>
+                        <l>Veneno inbutae taetros cruciatus cient!</l>
                      </quote>
                   </p>
                   <p >Sic Epicurus: <quote>Philocteta, st! brevis dolor.</quote>
@@ -8692,7 +8692,7 @@ recte factis est, quae sunt orta <add>a</add> virtutibus. quae<note>
 quidem sapientes sequuntur duce natura tanquam
 videntes;<note>sapientes sequuntur duce natura tanquam videntes <hi rend="italics">Se.</hi> sa-
 pientes utentes sequuntur duce natura tanquam BERV sapientes
-vírt<gap reason="illegible"/>tes ('rt<gap reason="illegible"/> 
+virt<gap reason="illegible"/>tes ('rt<gap reason="illegible"/> 
                         <hi rend="italics">ab alt. m. in ras.</hi>) sequuntur duce natura tamquam
 N. '<hi rend="italics">Latet aliquid huiusmodi</hi>: quae quidem sapientes videntes
 sequuntur duce natura eam viam' <hi rend="italics">Mdv.</hi>

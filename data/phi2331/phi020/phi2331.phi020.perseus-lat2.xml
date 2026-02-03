@@ -58,7 +58,7 @@
                 <language ident="grc">Greek</language>
             </langUsage>
         </profileDesc>
-    <revisionDesc><change when="2016-11-20" who="Thibault Clérice">CapiTainS and Epidoc</change></revisionDesc></teiHeader> <text xml:lang="lat"> <body><div xml:lang="lat" type="edition" n="urn:cts:latinLit:phi2331.phi020.perseus-lat2">
+    <revisionDesc><change when="2016-11-20" who="Thibault Clerice">CapiTainS and Epidoc</change></revisionDesc></teiHeader> <text xml:lang="lat"> <body><div xml:lang="lat" type="edition" n="urn:cts:latinLit:phi2331.phi020.perseus-lat2">
 <div type="textpart" n="1" subtype="chapter">
 <p>
 <milestone unit="section" n="1"/>
@@ -191,7 +191,7 @@ die lavaret aestate, hieme secundo, somni plurimi, ita ut in tricliniis, si fort
 <milestone unit="section" n="1"/>
 Sed boni mores nihil ei profuerunt, hac enim vita venerabilis, cum Platone semper, cum Aristotele,
 <note n="n20.390.1">litteras Jordan, Lessing; litteris P, Peter.</note>
-<note n="n20.390.2">familiam Damsté; familia P, Peter. </note>
+<note n="n20.390.2">familiam Damste; familia P, Peter. </note>
 <pb n="p.392"/>
 cum Tullio, cum Vergilio ceterisque veteribus agens alium quam merebatur exitum passus est.
 <milestone unit="section" n="2"/>
@@ -424,7 +424,7 @@ familiam contingere videbatur, et primis diebus sui natalis Antoninus est appell
 In studiis gravissimae opinionis fuit, forma conspicuus, memoriae singularis, bonitatis insignis, adeo ut semper in scholis, si quis puerorum verbera-
 <note n="n20.410.1">quam ins. in Edit. princ. and by Jordan; om. in P and by Peter. ut nonnulli
 <gap reason="omitted"/>
-duxit del. by Peter. desiderant P, Novák; disserant Peter. Antonii Ursinus, Peter; Antonini P. </note>
+duxit del. by Peter. desiderant P, Novak; disserant Peter. Antonii Ursinus, Peter; Antonini P. </note>
 <pb n="p.412"/>
 <milestone unit="section" n="2"/>
 retur, ille lacrimas non teneret. Sereno Sammonico, qui patris eius amicissimus, sibi autem praeceptor fuit, nimis acceptus et carus usque adeo ut omnes libros Sereni Sammonici patris sui, qui censebantur ad sexaginta et duo milia, Gordiano minori moriens ille re-
@@ -490,7 +490,7 @@ Haec de Gordiano iuniore digna memoratus comperimus; non enim nobis talia dicend
 Iunius Cordus ridicule ac stulte composuit de voluptatibus
 <milestone unit="section" n="4"/>
 domesticis ceterisque infimis rebus, quae qui velit scire, ipsum legat Cordum, qui dicit et quos servos habuerit unusquisque principum et quos amicos et quot paenulas quotve chlamydes. quorum etiam scientia nulli rei prodest, si quidem ea debeant in historia poni ab historiographis quae aut fugienda sint aut sequenda.
-<note n="n20.416.1">appareant Damsté; appareat P, Peter.</note>
+<note n="n20.416.1">appareant Damste; appareat P, Peter.</note>
 <note n="n20.416.2">ut ins. by Oberdick and Peter; om. in P and Peter</note>
 <note n="n20.416.3">dicenda sunt quae Salm., Peter; dicentes unoque P. </note>
 <pb n="p.418"/>

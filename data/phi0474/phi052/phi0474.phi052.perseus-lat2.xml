@@ -70,7 +70,7 @@ schematypens="http://relaxng.org/ns/structure/1.0"?>
       
       <revisionDesc>
          <change when="2019-09-11" who="Lisa Cerrato">updates to CTS and header; file bumping, etc.</change>
-         <change when="2016-11-20" who="Thibault Clérice">CapiTainS and Epidoc</change>
+         <change when="2016-11-20" who="Thibault Clerice">CapiTainS and Epidoc</change>
       </revisionDesc>
    </teiHeader>
    <text xml:lang="lat">

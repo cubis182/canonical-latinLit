@@ -77,7 +77,7 @@
 <change who="gcrane" when="2006-04-27">added to the repository</change>
 <change who="gcrane" when="2006-04-26">added to repository</change>
 
-         <change when="2016-11-20" who="Thibault Clérice">CapiTainS and Epidoc</change>
+         <change when="2016-11-20" who="Thibault Clerice">CapiTainS and Epidoc</change>
       </revisionDesc>
    </teiHeader>
    <text xml:lang="la">
@@ -205,7 +205,7 @@ loco addidit. 397,8 <hi rend="italics">haec</hi> exp.<hi rend="sup">1</hi>, <hi 
 usus non est neque suo arbitrio verba mutavit.</p>
                <p >
                   <note type="marg">K</note> Cameracensis (bibl. communale de Cambrai, Omont Cat.
-des dép. XVII n. 943) 842, a Conrado RoBbach primo in
+des dep. XVII n. 943) 842, a Conrado RoBbach primo in
 Phil. LXIII p. 94–101 descriptus, qui etiam benigno animo
 ut collatione sua uterer permisit, cum ipse a. 1911 Gottingae codicem conferrem.</p>
                <p >cod. membr. s. IX, 22:19,3 cm., 48 fol. 34 versuum. con-
@@ -5305,7 +5305,7 @@ K<hi rend="sup">2</hi>R<hi rend="sup">c</hi>V<hi rend="sup">1</hi>
                      </note>
                      <note>audies <foreign xml:lang="greek">s</foreign> 
                         <hi rend="italics">cf. Lebreton, Et. sur la langue et la grammaire de
-Cicéron p. 201</hi>
+Ciceron p. 201</hi>
                      </note> et iacens et lamentabili voce deplorans audieris: <quote>o virum fortem!</quote>? te vero ita adfectum
 ne<note>nec K</note> virum quidem quisquam dixerit. amittenda igitur
 fortitudo est<note>est <hi rend="italics">om.</hi> H</note> aut sepeliendus dolor.<note>aut ... 17 dolor H</note> Ecquid<note>equid V<hi rend="sup">1</hi>
@@ -7117,11 +7117,11 @@ situ nitoris <hi rend="italics">corr.</hi> V<hi rend="sup">2?</hi>
                               <hi rend="italics">praeterea</hi> nidoris V<hi rend="sup">rec</hi> 
                               <hi rend="italics">ut v.</hi> situ nigroris
 <hi rend="italics">Va. op. ac. 1, 56 al. alii</hi>
-                           </note> bárba paedore<note>pedore <hi rend="italics">hic X</hi> (<hi rend="italics">cf.p. 348, 25</hi>)</note> hórrida atque<note>atque (adque <hi rend="italics">G</hi>
+                           </note> barba paedore<note>pedore <hi rend="italics">hic X</hi> (<hi rend="italics">cf.p. 348, 25</hi>)</note> horrida atque<note>atque (adque <hi rend="italics">G</hi>
                               <hi rend="sup">1</hi>) <hi rend="italics">del. Bothe sed cf. La. ad Lucr. 2,118</hi>
                            </note>
                         </l>
-                        <l>Intónsa infuscat péctus inluvié<note>inluviae GK (ill.) R<hi rend="sup">1</hi>
+                        <l>Intonsa infuscat pectus inluvie<note>inluviae GK (ill.) R<hi rend="sup">1</hi>
                            </note> scabrum.</l>
                      </quote>
 haec mala, o stultissime Aeeta,<note>aeota G eota KRV<hi rend="sup">1</hi> (aeota V<hi rend="sup">2</hi>)</note> ipse tibi addidisti;
@@ -11392,7 +11392,7 @@ fortunam glorietur? quod idem melioribus etiam verbis Metrodorus:
                      </quote> inquit, <quote>Fortuna,<note>
                            <hi rend="italics">Metr. fr. 49</hi>
                         </note> atque
-cepi<note>coepi GRV cé K<hi rend="sup">c</hi> (cepi<hi rend="sup">1</hi>)</note> omnisque<note>que <hi rend="italics">add.</hi> G<hi rend="sup">2</hi> asp.G</note> aditus tuos interclusi, ut ad me adspirare non posses.</quote> praeclare, si Aristo Chius<note>aristocchius KR aristho<figure/>chius G</note> aut si Stoicus<note>sthoicus G stholchus K<hi rend="sup">1</hi>
+cepi<note>coepi GRV ce K<hi rend="sup">c</hi> (cepi<hi rend="sup">1</hi>)</note> omnisque<note>que <hi rend="italics">add.</hi> G<hi rend="sup">2</hi> asp.G</note> aditus tuos interclusi, ut ad me adspirare non posses.</quote> praeclare, si Aristo Chius<note>aristocchius KR aristho<figure/>chius G</note> aut si Stoicus<note>sthoicus G stholchus K<hi rend="sup">1</hi>
                      </note> Zenon<note>zeno V<hi rend="sup">2</hi> 
                         <hi rend="italics">sed cf. nat. deor. 1, 70</hi>
                      </note> diceret, qui, nisi quod turpe esset, nihil malum duceret; tu vero, Metrodore, qui omne bonum in
